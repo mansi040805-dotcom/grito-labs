@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grito Labs | Executive Presentation Deck - Marketing Attribution & ROI Analytics</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+    body { font-family: 'Inter', sans-serif; background-color: #0b0f19; color: #f8fafc; }
+    .slide { display: none; min-height: 85vh; }
+    .slide.active { display: flex; }
+    .glass-card { background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(12px); border: 1px solid rgba(255, 255, 255, 0.1); }
+  </style>
+</head>
+<body class="flex flex-col justify-between min-h-screen">
+  <!-- Top Navigation Bar -->
+  <header class="flex items-center justify-between px-8 py-4 border-b border-slate-800 bg-slate-900/80 backdrop-blur">
+    <div class="flex items-center space-x-3">
+      <div class="w-8 h-8 rounded-lg bg-indigo-600 flex items-center justify-center font-bold text-white shadow-lg shadow-indigo-500/30">G</div>
+      <div>
+        <h1 class="text-sm font-bold tracking-wider text-slate-200 uppercase">Grito Labs Executive Presentation</h1>
+        <p class="text-xs text-slate-400">Multi-Channel Marketing Attribution & ROI Optimization Framework</p>
+      </div>
+    </div>
+    <div class="flex items-center space-x-4">
+      <span id="slideIndicator" class="text-xs font-semibold px-3 py-1 rounded-full bg-slate-800 text-indigo-400 border border-slate-700">Slide 1 of 14</span>
+      <button onclick="toggleFullscreen()" class="text-xs text-slate-400 hover:text-white px-2 py-1"><i class="fa-solid fa-expand"></i> Fullscreen</button>
+      <a href="../dashboard/index.html" class="text-xs bg-indigo-600 hover:bg-indigo-500 text-white px-3 py-1.5 rounded font-medium transition"><i class="fa-solid fa-chart-line mr-1"></i> Open Live Dashboard</a>
+    </div>
+  </header>
+
+  <!-- Slide Container -->
+  <main class="flex-1 flex items-center justify-center p-6 max-w-7xl mx-auto w-full">
+    
+    <!-- Slide 1: Cover -->
+    <div class="slide active flex-col justify-center items-start w-full py-12 px-8">
+      <div class="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-indigo-500/10 border border-indigo-500/30 text-indigo-400 text-xs font-semibold uppercase tracking-wider mb-6">
+        <i class="fa-solid fa-bullseye"></i> Executive Strategic Briefing
+      </div>
+      <h1 class="text-5xl font-extrabold text-white tracking-tight leading-tight mb-4 max-w-4xl">
+        Multi-Channel Marketing Attribution &amp; Capital Optimization Framework
+      </h1>
+      <p class="text-xl text-slate-400 max-w-3xl mb-8 leading-relaxed">
+        Evaluating cross-channel customer journeys, algorithmic Markov chain removal effects, and bounded marginal response reallocation to maximize student enrollments and ROAS.
+      </p>
+      <div class="flex items-center space-x-6 text-sm text-slate-400 border-t border-slate-800 pt-6 w-full max-w-3xl">
+        <div><strong class="text-white">Domain:</strong> Marketing Analytics &amp; BI</div>
+        <div><strong class="text-white">Cohort:</strong> H1 2026 Evaluation</div>
+        <div><strong class="text-white">Organization:</strong> Grito Labs EdTech</div>
+      </div>
+    </div>
+
+    <!-- Slide 2: Executive Summary -->
+    <div class="slide flex-col justify-center w-full py-6">
+      <div class="text-xs font-bold text-indigo-400 uppercase tracking-widest mb-1">Executive Summary</div>
+      <h2 class="text-3xl font-bold text-white mb-6">The Last-Touch Fallacy &amp; Capital Reallocation Opportunity</h2>
+      
+      <div class="grid grid-cols-4 gap-4 mb-6">
+        <div class="glass-card p-4 rounded-xl border border-slate-700">
+          <div class="text-xs text-slate-400 font-medium">TOTAL MEDIA SPEND</div>
+          <div class="text-2xl font-bold text-white mt-1">$262,896.68</div>
+          <div class="text-xs text-slate-400 mt-1">Across 15 Campaigns</div>
+        </div>
+        <div class="glass-card p-4 rounded-xl border border-slate-700">
+          <div class="text-xs text-slate-400 font-medium">NET TUITION REVENUE</div>
+          <div class="text-2xl font-bold text-indigo-400 mt-1">$1,646,260.00</div>
+          <div class="text-xs text-slate-400 mt-1">1,385 Enrolled Students</div>
+        </div>
+        <div class="glass-card p-4 rounded-xl border border-slate-700">
+          <div class="text-xs text-slate-400 font-medium">BLENDED ROAS</div>
+          <div class="text-2xl font-bold text-emerald-400 mt-1">6.26x</div>
+          <div class="text-xs text-slate-400 mt-1">Blended CAC: $189.82</div>
+        </div>
+        <div class="glass-card p-4 rounded-xl border border-indigo-500/30 bg-indigo-900/20">
+          <div class="text-xs text-indigo-300 font-medium">PROJECTED REVENUE UPLIFT</div>
+          <div class="text-2xl font-bold text-emerald-400 mt-1">+$74,941.99</div>
+          <div class="text-xs text-indigo-200 mt-1">+63.5 Students ($0 New Budget)</div>
+        </div>
+      </div>
+
+      <div class="space-y-3">
+        <div class="glass-card p-4 rounded-xl flex items-start space-x-3">
+          <div class="text-rose-400 mt-0.5"><i class="fa-solid fa-triangle-exclamation"></i></div>
+          <div>
+            <div class="text-sm font-semibold text-white">1. Severe Last-Touch Distortion (+48% Over-credit to Google Search)</div>
+            <p class="text-xs text-slate-300 mt-0.5">Last-Touch Attribution over-values Google Search and Direct ($589.7k vs $395.2k in Markov), penalizing top-of-funnel discovery channels like Meta and YouTube Ads which initiate over 64% of converted paths.</p>
+          </div>
+        </div>
+        <div class="glass-card p-4 rounded-xl flex items-start space-x-3">
+          <div class="text-emerald-400 mt-0.5"><i class="fa-solid fa-envelope-open-text"></i></div>
+          <div>
+            <div class="text-sm font-semibold text-white">2. Email Marketing is the Hidden High-ROI Conversion Engine</div>
+            <p class="text-xs text-slate-300 mt-0.5">Yields $250.4k in algorithmic revenue at just $5.2k spend (ROAS: 47.98x). Mid-funnel drip sequences and Sunday Masterclass webinars hold a critical 0.2765 Markov Removal Effect.</p>
+          </div>
+        </div>
+        <div class="glass-card p-4 rounded-xl flex items-start space-x-3">
+          <div class="text-amber-400 mt-0.5"><i class="fa-solid fa-arrow-right-arrow-left"></i></div>
+          <div>
+            <div class="text-sm font-semibold text-white">3. Capital Drain Identified on LinkedIn Ads ($547.62 CAC)</div>
+            <p class="text-xs text-slate-300 mt-0.5">Steep CPCs ($7.40) on LinkedIn drain $47.5k with only 86.6 Markov enrollments. Trimming LinkedIn by 40% and funding Email and YouTube unlocks +$74.9k incremental tuition.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 3: Products & Funnel -->
+    <div class="slide flex-col justify-center w-full py-6">
+      <div class="text-xs font-bold text-indigo-400 uppercase tracking-widest mb-1">Business Context</div>
+      <h2 class="text-3xl font-bold text-white mb-6">Grito Labs Product Ecosystem &amp; Student Decision Funnel</h2>
+      
+      <div class="grid grid-cols-3 gap-6">
+        <div class="glass-card p-6 rounded-xl border border-slate-700">
+          <div class="text-xs text-indigo-400 font-bold uppercase tracking-wider">Flagship Accelerator</div>
+          <h3 class="text-xl font-bold text-white mt-1">Data Analytics Accelerator</h3>
+          <div class="text-2xl font-bold text-indigo-300 mt-2">$1,250 <span class="text-xs text-slate-400">/ 12 Weeks</span></div>
+          <div class="text-xs text-emerald-400 font-medium mt-1">45% of Total Enrollments</div>
+          <p class="text-xs text-slate-300 mt-4 leading-relaxed">
+            Curriculum: SQL, Python, Power BI, RCA Capstone.<br><br>
+            Target Persona: Fresh graduates &amp; non-tech career switchers.<br><br>
+            Primary Feeder: Meta Reels, YouTube SQL Crash Courses, Weekend Free Bootcamps.
+          </p>
+        </div>
+
+        <div class="glass-card p-6 rounded-xl border border-slate-700">
+          <div class="text-xs text-indigo-400 font-bold uppercase tracking-wider">Specialized Masterclass</div>
+          <h3 class="text-xl font-bold text-white mt-1">Business Analytics &amp; RCA</h3>
+          <div class="text-2xl font-bold text-indigo-300 mt-2">$950 <span class="text-xs text-slate-400">/ 8 Weeks</span></div>
+          <div class="text-xs text-emerald-400 font-medium mt-1">35% of Total Enrollments</div>
+          <p class="text-xs text-slate-300 mt-4 leading-relaxed">
+            Curriculum: Root Cause Analysis, Advanced Excel, Tableau.<br><br>
+            Target Persona: Junior analysts and business operators.<br><br>
+            Primary Feeder: Sunday Masterclasses, Organic RCA Case Study Guides, Email Drip.
+          </p>
+        </div>
+
+        <div class="glass-card p-6 rounded-xl border border-slate-700">
+          <div class="text-xs text-indigo-400 font-bold uppercase tracking-wider">Advanced Fellowship</div>
+          <h3 class="text-xl font-bold text-white mt-1">Enterprise AI &amp; BI Fellowship</h3>
+          <div class="text-2xl font-bold text-indigo-300 mt-2">$1,850 <span class="text-xs text-slate-400">/ 16 Weeks</span></div>
+          <div class="text-xs text-emerald-400 font-medium mt-1">20% of Total Enrollments</div>
+          <p class="text-xs text-slate-300 mt-4 leading-relaxed">
+            Curriculum: Generative AI, MLOps, Enterprise BI Architecture.<br><br>
+            Target Persona: Mid-level engineers and corporate-sponsored leads.<br><br>
+            Primary Feeder: Alumni Referrals, Brand Defense Search, LinkedIn Retargeting.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 4: Methodology Spectrum -->
+    <div class="slide flex-col justify-center w-full py-6">
+      <div class="text-xs font-bold text-indigo-400 uppercase tracking-widest mb-1">Attribution Framework</div>
+      <h2 class="text-3xl font-bold text-white mb-6">Attribution Methodology Spectrum: Heuristic vs Algorithmic</h2>
+      
+      <div class="overflow-x-auto">
+        <table class="w-full text-left text-xs glass-card rounded-xl overflow-hidden border border-slate-700">
+          <thead class="bg-slate-800 text-slate-300 uppercase font-semibold">
+            <tr>
+              <th class="p-3">Model</th>
+              <th class="p-3">Type</th>
+              <th class="p-3">Credit Allocation Rule</th>
+              <th class="p-3">Primary Bias / Limitation</th>
+              <th class="p-3">Business Verdict</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-800">
+            <tr>
+              <td class="p-3 font-bold text-white">First-Touch (FTA)</td>
+              <td class="p-3 text-slate-400">Single-Touch</td>
+              <td class="p-3 text-slate-300">100% to initial discovery session</td>
+              <td class="p-3 text-slate-400">Completely ignores mid-funnel nurture and closing retargeting</td>
+              <td class="p-3 text-amber-400">Top-of-funnel benchmark only</td>
+            </tr>
+            <tr>
+              <td class="p-3 font-bold text-white">Last-Touch (LTA)</td>
+              <td class="p-3 text-slate-400">Single-Touch</td>
+              <td class="p-3 text-slate-300">100% to final interaction prior to payment</td>
+              <td class="p-3 text-rose-400">Over-credits Google Brand Search &amp; Direct (+48%); defunds awareness</td>
+              <td class="p-3 text-rose-400">Misleading &amp; Dangerous</td>
+            </tr>
+            <tr>
+              <td class="p-3 font-bold text-white">Linear</td>
+              <td class="p-3 text-slate-400">Multi-Touch</td>
+              <td class="p-3 text-slate-300">Equal split (1 / N) across all path touchpoints</td>
+              <td class="p-3 text-slate-400">Assumes all touches have identical impact regardless of timing</td>
+              <td class="p-3 text-slate-300">Decent baseline</td>
+            </tr>
+            <tr>
+              <td class="p-3 font-bold text-white">Time-Decay (7d)</td>
+              <td class="p-3 text-slate-400">Multi-Touch</td>
+              <td class="p-3 text-slate-300">Exponential half-life: 2^(-Δt / 7 days)</td>
+              <td class="p-3 text-slate-400">Undervalues top-of-funnel discovery on long consideration cycles</td>
+              <td class="p-3 text-slate-300">Favors fast closers</td>
+            </tr>
+            <tr>
+              <td class="p-3 font-bold text-white">U-Shaped (40-20-40)</td>
+              <td class="p-3 text-slate-400">Position-Based</td>
+              <td class="p-3 text-slate-300">40% First, 40% Last, 20% split among middle</td>
+              <td class="p-3 text-slate-400">Arbitrary fixed percentages; neglects email nurture power</td>
+              <td class="p-3 text-slate-300">Acceptable heuristic</td>
+            </tr>
+            <tr class="bg-indigo-900/30">
+              <td class="p-3 font-bold text-indigo-300">Markov Chain (Removal)</td>
+              <td class="p-3 text-indigo-400 font-semibold">Data-Driven / Algorithmic</td>
+              <td class="p-3 text-white">Measures % drop in conversions when channel is removed</td>
+              <td class="p-3 text-emerald-400">None; incorporates non-converting paths &amp; stochastic transitions</td>
+              <td class="p-3 text-emerald-400 font-bold">Gold Standard for Capital Allocation</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Slide 5: Markov Model Deep Dive -->
+    <div class="slide flex-col justify-center w-full py-6">
+      <div class="text-xs font-bold text-indigo-400 uppercase tracking-widest mb-1">Algorithmic Rigor</div>
+      <h2 class="text-3xl font-bold text-white mb-6">Markov Chain Transition Matrices &amp; Removal Effects</h2>
+      
+      <div class="grid grid-cols-2 gap-6">
+        <div class="glass-card p-6 rounded-xl border border-slate-700">
+          <h3 class="text-lg font-bold text-white mb-3">Mathematical Formulation</h3>
+          <p class="text-xs text-slate-300 mb-4 leading-relaxed">
+            Rather than imposing arbitrary rules, Markov Chains model customer journeys as a state transition graph:
+          </p>
+          <div class="p-3 rounded-lg bg-slate-900 border border-slate-800 font-mono text-xs text-indigo-300 mb-4 space-y-1">
+            <div>P(i, j) = C(i, j) / Σ_k C(i, k)</div>
+            <div>P(Conv) = Σ_paths ∏ P(s_t, s_{t+1})</div>
+            <div>RE(c) = [P(Conv) - P(Conv \ {c})] / P(Conv)</div>
+            <div>W_Markov(c) = RE(c) / Σ_k RE(k)</div>
+          </div>
+          <p class="text-xs text-slate-400 leading-relaxed">
+            A channel's credit is proportional to the systemic shock that would occur if that channel were eliminated from Grito Labs' marketing ecosystem.
+          </p>
+        </div>
+
+        <div class="glass-card p-6 rounded-xl border border-slate-700">
+          <h3 class="text-lg font-bold text-white mb-3">Empirical Removal Effects (Grito Labs H1 2026)</h3>
+          <div class="space-y-3">
+            <div>
+              <div class="flex justify-between text-xs font-medium text-slate-300 mb-1">
+                <span>Google Search</span>
+                <span class="font-bold text-emerald-400">0.4363 (43.6% loss if removed)</span>
+              </div>
+              <div class="w-full bg-slate-800 rounded-full h-2">
+                <div class="bg-emerald-500 h-2 rounded-full" style="width: 43.6%"></div>
+              </div>
+            </div>
+            <div>
+              <div class="flex justify-between text-xs font-medium text-slate-300 mb-1">
+                <span>Meta Ads</span>
+                <span class="font-bold text-emerald-400">0.3832 (38.3% loss if removed)</span>
+              </div>
+              <div class="w-full bg-slate-800 rounded-full h-2">
+                <div class="bg-emerald-500 h-2 rounded-full" style="width: 38.3%"></div>
+              </div>
+            </div>
+            <div>
+              <div class="flex justify-between text-xs font-medium text-slate-300 mb-1">
+                <span>Email Marketing</span>
+                <span class="font-bold text-indigo-400">0.2765 (27.6% loss if removed)</span>
+              </div>
+              <div class="w-full bg-slate-800 rounded-full h-2">
+                <div class="bg-indigo-500 h-2 rounded-full" style="width: 27.6%"></div>
+              </div>
+            </div>
+            <div>
+              <div class="flex justify-between text-xs font-medium text-slate-300 mb-1">
+                <span>Organic Search</span>
+                <span class="font-bold text-blue-400">0.2314 (23.1% loss if removed)</span>
+              </div>
+              <div class="w-full bg-slate-800 rounded-full h-2">
+                <div class="bg-blue-500 h-2 rounded-full" style="width: 23.1%"></div>
+              </div>
+            </div>
+            <div>
+              <div class="flex justify-between text-xs font-medium text-slate-300 mb-1">
+                <span>YouTube Ads</span>
+                <span class="font-bold text-blue-400">0.1988 (19.9% loss if removed)</span>
+              </div>
+              <div class="w-full bg-slate-800 rounded-full h-2">
+                <div class="bg-blue-500 h-2 rounded-full" style="width: 19.9%"></div>
+              </div>
+            </div>
+            <div>
+              <div class="flex justify-between text-xs font-medium text-slate-300 mb-1">
+                <span>LinkedIn Ads</span>
+                <span class="font-bold text-rose-400">0.1130 (11.3% loss - Weakest)</span>
+              </div>
+              <div class="w-full bg-slate-800 rounded-full h-2">
+                <div class="bg-rose-500 h-2 rounded-full" style="width: 11.3%"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 6: Cross-Model Comparison Table -->
+    <div class="slide flex-col justify-center w-full py-6">
+      <div class="text-xs font-bold text-indigo-400 uppercase tracking-widest mb-1">Empirical Comparison</div>
+      <h2 class="text-3xl font-bold text-white mb-6">Cross-Model Attribution Matrix: Conversions &amp; ROAS</h2>
+      
+      <div class="overflow-x-auto">
+        <table class="w-full text-left text-xs glass-card rounded-xl overflow-hidden border border-slate-700">
+          <thead class="bg-slate-800 text-slate-300 font-semibold">
+            <tr>
+              <th class="p-2.5">Channel</th>
+              <th class="p-2.5">Spend ($)</th>
+              <th class="p-2.5">First-Touch</th>
+              <th class="p-2.5">Last-Touch</th>
+              <th class="p-2.5">Linear</th>
+              <th class="p-2.5">Time-Decay</th>
+              <th class="p-2.5">U-Shaped</th>
+              <th class="p-2.5 text-indigo-400">Markov Conv</th>
+              <th class="p-2.5 text-indigo-400">Markov Rev</th>
+              <th class="p-2.5 text-emerald-400">Markov ROAS</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-800 font-mono">
+            <tr>
+              <td class="p-2.5 font-sans font-bold text-white">Google Search</td>
+              <td class="p-2.5 text-slate-300">$82,007</td>
+              <td class="p-2.5 text-slate-400">182.0</td>
+              <td class="p-2.5 text-amber-400 font-bold">496.0</td>
+              <td class="p-2.5 text-slate-300">308.0</td>
+              <td class="p-2.5 text-slate-300">330.0</td>
+              <td class="p-2.5 text-slate-300">325.5</td>
+              <td class="p-2.5 font-bold text-indigo-300">334.7</td>
+              <td class="p-2.5 font-bold text-white">$395,172</td>
+              <td class="p-2.5 font-bold text-emerald-400">4.82x</td>
+            </tr>
+            <tr>
+              <td class="p-2.5 font-sans font-bold text-white">Meta Ads</td>
+              <td class="p-2.5 text-slate-300">$85,764</td>
+              <td class="p-2.5 text-emerald-400 font-bold">449.0</td>
+              <td class="p-2.5 text-rose-400">219.0</td>
+              <td class="p-2.5 text-slate-300">341.1</td>
+              <td class="p-2.5 text-slate-300">322.9</td>
+              <td class="p-2.5 text-slate-300">336.4</td>
+              <td class="p-2.5 font-bold text-indigo-300">294.0</td>
+              <td class="p-2.5 font-bold text-white">$347,084</td>
+              <td class="p-2.5 font-bold text-emerald-400">4.05x</td>
+            </tr>
+            <tr>
+              <td class="p-2.5 font-sans font-bold text-white">YouTube Ads</td>
+              <td class="p-2.5 text-slate-300">$42,456</td>
+              <td class="p-2.5 text-emerald-400 font-bold">317.0</td>
+              <td class="p-2.5 text-rose-400">40.0</td>
+              <td class="p-2.5 text-slate-300">163.7</td>
+              <td class="p-2.5 text-slate-300">144.4</td>
+              <td class="p-2.5 text-slate-300">172.1</td>
+              <td class="p-2.5 font-bold text-indigo-300">152.5</td>
+              <td class="p-2.5 font-bold text-white">$180,002</td>
+              <td class="p-2.5 font-bold text-emerald-400">4.24x</td>
+            </tr>
+            <tr>
+              <td class="p-2.5 font-sans font-bold text-white">Email Marketing</td>
+              <td class="p-2.5 text-slate-300">$5,218</td>
+              <td class="p-2.5 text-slate-500">0.0</td>
+              <td class="p-2.5 text-slate-300">302.0</td>
+              <td class="p-2.5 text-slate-300">235.7</td>
+              <td class="p-2.5 text-slate-300">256.4</td>
+              <td class="p-2.5 text-slate-300">188.7</td>
+              <td class="p-2.5 font-bold text-indigo-300">212.0</td>
+              <td class="p-2.5 font-bold text-white">$250,368</td>
+              <td class="p-2.5 font-bold text-emerald-400">47.98x</td>
+            </tr>
+            <tr>
+              <td class="p-2.5 font-sans font-bold text-white">LinkedIn Ads</td>
+              <td class="p-2.5 text-slate-300">$47,451</td>
+              <td class="p-2.5 text-slate-300">135.0</td>
+              <td class="p-2.5 text-rose-400">17.0</td>
+              <td class="p-2.5 text-slate-300">94.7</td>
+              <td class="p-2.5 text-slate-300">84.9</td>
+              <td class="p-2.5 text-slate-300">84.5</td>
+              <td class="p-2.5 font-bold text-indigo-300">86.7</td>
+              <td class="p-2.5 font-bold text-white">$102,309</td>
+              <td class="p-2.5 font-bold text-rose-400">2.16x</td>
+            </tr>
+            <tr class="bg-slate-900/40">
+              <td class="p-2.5 font-sans font-bold text-slate-400">Organic Search</td>
+              <td class="p-2.5 text-slate-500">$0</td>
+              <td class="p-2.5 text-slate-400">246.0</td>
+              <td class="p-2.5 text-slate-400">127.0</td>
+              <td class="p-2.5 text-slate-400">161.5</td>
+              <td class="p-2.5 text-slate-400">153.2</td>
+              <td class="p-2.5 text-slate-400">175.3</td>
+              <td class="p-2.5 text-slate-300">177.5</td>
+              <td class="p-2.5 text-slate-300">$209,607</td>
+              <td class="p-2.5 text-slate-500">N/A</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="text-xs text-slate-400 mt-3 italic">
+        * Notice how LTA inflates Google Search by +48% while crushing YouTube Ads from 152 to 40 conversions.
+      </p>
+    </div>
+
+    <!-- Slide 7: Budget Reallocation Strategy -->
+    <div class="slide flex-col justify-center w-full py-6">
+      <div class="text-xs font-bold text-indigo-400 uppercase tracking-widest mb-1">Capital Optimization</div>
+      <h2 class="text-3xl font-bold text-white mb-6">The Hill-Markov Budget Reallocation Strategy</h2>
+      
+      <div class="overflow-x-auto mb-6">
+        <table class="w-full text-left text-xs glass-card rounded-xl overflow-hidden border border-slate-700">
+          <thead class="bg-slate-800 text-slate-300 font-semibold">
+            <tr>
+              <th class="p-3">Channel</th>
+              <th class="p-3">Current Spend</th>
+              <th class="p-3 text-indigo-400">Optimized Spend</th>
+              <th class="p-3">Budget Shift ($)</th>
+              <th class="p-3">Shift (%)</th>
+              <th class="p-3">Current Conv</th>
+              <th class="p-3 text-emerald-400">Projected Conv</th>
+              <th class="p-3">Strategic Action</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-800 font-mono">
+            <tr>
+              <td class="p-3 font-sans font-bold text-white">LinkedIn Ads</td>
+              <td class="p-3 text-slate-300">$47,451</td>
+              <td class="p-3 font-bold text-rose-400">$28,471</td>
+              <td class="p-3 text-rose-400 font-bold">-$18,980</td>
+              <td class="p-3 text-rose-400 font-bold">-40.0%</td>
+              <td class="p-3 text-slate-400">86.7</td>
+              <td class="p-3 text-slate-300">63.8</td>
+              <td class="p-3 font-sans text-slate-300">Cut spend drain; prune high CPC bidding</td>
+            </tr>
+            <tr>
+              <td class="p-3 font-sans font-bold text-white">YouTube Ads</td>
+              <td class="p-3 text-slate-300">$42,456</td>
+              <td class="p-3 font-bold text-emerald-400">$53,070</td>
+              <td class="p-3 text-emerald-400 font-bold">+$10,614</td>
+              <td class="p-3 text-emerald-400 font-bold">+25.0%</td>
+              <td class="p-3 text-slate-400">152.5</td>
+              <td class="p-3 font-bold text-emerald-400">176.9</td>
+              <td class="p-3 font-sans text-slate-300">Scale free tutorial lead magnets &amp; reviews</td>
+            </tr>
+            <tr>
+              <td class="p-3 font-sans font-bold text-white">Google Search</td>
+              <td class="p-3 text-slate-300">$82,007</td>
+              <td class="p-3 font-bold text-emerald-400">$89,388</td>
+              <td class="p-3 text-emerald-400 font-bold">+$7,381</td>
+              <td class="p-3 text-emerald-400 font-bold">+9.0%</td>
+              <td class="p-3 text-slate-400">334.7</td>
+              <td class="p-3 font-bold text-emerald-400">352.1</td>
+              <td class="p-3 font-sans text-slate-300">Capture rising bootcamp search volume</td>
+            </tr>
+            <tr>
+              <td class="p-3 font-sans font-bold text-white">Email Marketing</td>
+              <td class="p-3 text-slate-300">$5,218</td>
+              <td class="p-3 font-bold text-emerald-400">$7,827</td>
+              <td class="p-3 text-emerald-400 font-bold">+$2,609</td>
+              <td class="p-3 text-emerald-400 font-bold">+50.0%</td>
+              <td class="p-3 text-slate-400">212.0</td>
+              <td class="p-3 font-bold text-emerald-400">268.4</td>
+              <td class="p-3 font-sans text-slate-300">Scale automated drips &amp; webinar invitations</td>
+            </tr>
+            <tr>
+              <td class="p-3 font-sans font-bold text-white">Meta Ads</td>
+              <td class="p-3 text-slate-300">$85,764</td>
+              <td class="p-3 font-bold text-slate-300">$84,141</td>
+              <td class="p-3 text-slate-400">-$1,623</td>
+              <td class="p-3 text-slate-400">-1.9%</td>
+              <td class="p-3 text-slate-400">294.0</td>
+              <td class="p-3 text-slate-300">291.8</td>
+              <td class="p-3 font-sans text-slate-300">Maintain baseline; focus on top video reels</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="glass-card p-4 rounded-xl border border-emerald-500/30 bg-emerald-950/20 flex items-center justify-between">
+        <div>
+          <div class="text-sm font-bold text-emerald-400">TOTAL FINANCIAL IMPACT</div>
+          <p class="text-xs text-slate-300 mt-0.5">Budget reallocated using bounded marginal ROAS response curves.</p>
+        </div>
+        <div class="text-right">
+          <div class="text-xl font-bold text-emerald-400">+$74,941.99 Net Revenue Uplift</div>
+          <div class="text-xs text-slate-400">+63.5 Enrolled Students | 0% Increase in Total Spend</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 8: 90-Day Implementation Roadmap -->
+    <div class="slide flex-col justify-center w-full py-6">
+      <div class="text-xs font-bold text-indigo-400 uppercase tracking-widest mb-1">Execution Plan</div>
+      <h2 class="text-3xl font-bold text-white mb-6">90-Day Strategic Roadmap for Marketing Leadership</h2>
+      
+      <div class="grid grid-cols-3 gap-6">
+        <div class="glass-card p-6 rounded-xl border border-slate-700">
+          <div class="text-xs font-bold text-rose-400 uppercase tracking-wider mb-2">Phase 1: Days 1 - 30</div>
+          <h3 class="text-lg font-bold text-white mb-4">Capital Rebalancing &amp; Waste Elimination</h3>
+          <ul class="text-xs text-slate-300 space-y-3">
+            <li class="flex items-start space-x-2">
+              <span class="text-rose-400">•</span>
+              <span>Slash LinkedIn Ads spend by 40% (-$6.3k/mo) by shutting down loose keyword conquesting.</span>
+            </li>
+            <li class="flex items-start space-x-2">
+              <span class="text-rose-400">•</span>
+              <span>Cap Google competitor campaigns; reallocate to high-intent brand defense.</span>
+            </li>
+            <li class="flex items-start space-x-2">
+              <span class="text-rose-400">•</span>
+              <span>Standardize UTM parameter naming conventions across all paid and organic links.</span>
+            </li>
+          </ul>
+        </div>
+
+        <div class="glass-card p-6 rounded-xl border border-slate-700">
+          <div class="text-xs font-bold text-indigo-400 uppercase tracking-wider mb-2">Phase 2: Days 31 - 60</div>
+          <h3 class="text-lg font-bold text-white mb-4">Scaling Enablers &amp; Automation</h3>
+          <ul class="text-xs text-slate-300 space-y-3">
+            <li class="flex items-start space-x-2">
+              <span class="text-indigo-400">•</span>
+              <span>Expand Email Marketing automation by +50%; launch automated 5-day RCA curriculum drip.</span>
+            </li>
+            <li class="flex items-start space-x-2">
+              <span class="text-indigo-400">•</span>
+              <span>Scale YouTube Ads budget by +25% promoting free SQL workshop lead magnets.</span>
+            </li>
+            <li class="flex items-start space-x-2">
+              <span class="text-indigo-400">•</span>
+              <span>Deploy Meta CAPI and Google Enhanced Conversions to counter iOS 14.5 ATT tracking losses.</span>
+            </li>
+          </ul>
+        </div>
+
+        <div class="glass-card p-6 rounded-xl border border-slate-700">
+          <div class="text-xs font-bold text-emerald-400 uppercase tracking-wider mb-2">Phase 3: Days 61 - 90</div>
+          <h3 class="text-lg font-bold text-white mb-4">Incrementality &amp; Advocacy</h3>
+          <ul class="text-xs text-slate-300 space-y-3">
+            <li class="flex items-start space-x-2">
+              <span class="text-emerald-400">•</span>
+              <span>Run 30-day regional geo-holdout tests on Google Brand Search to test organic cannibalization.</span>
+            </li>
+            <li class="flex items-start space-x-2">
+              <span class="text-emerald-400">•</span>
+              <span>Institutionalize Alumni Referral Program with structured $100 scholarship incentives.</span>
+            </li>
+            <li class="flex items-start space-x-2">
+              <span class="text-emerald-400">•</span>
+              <span>Adopt Markov Chain Multi-Touch Attribution as Grito Labs' official source of truth in executive BI reporting.</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- Slide Footer / Controls -->
+  <footer class="flex items-center justify-between px-8 py-4 border-t border-slate-800 bg-slate-900/80">
+    <div class="text-xs text-slate-400">
+      Use <kbd class="px-2 py-0.5 rounded bg-slate-800 text-slate-300 border border-slate-700">←</kbd> and <kbd class="px-2 py-0.5 rounded bg-slate-800 text-slate-300 border border-slate-700">→</kbd> to navigate slides.
+    </div>
+    <div class="flex items-center space-x-3">
+      <button onclick="prevSlide()" class="px-4 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 text-xs font-semibold transition">
+        <i class="fa-solid fa-chevron-left mr-1"></i> Previous
+      </button>
+      <button onclick="nextSlide()" class="px-4 py-1.5 rounded-lg bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-semibold shadow transition">
+        Next <i class="fa-solid fa-chevron-right ml-1"></i>
+      </button>
+    </div>
+  </footer>
+
+  <script>
+    let currentSlide = 0;
+    const slides = document.querySelectorAll('.slide');
+    const indicator = document.getElementById('slideIndicator');
+
+    function showSlide(index) {
+      slides.forEach((s, i) => {
+        s.classList.toggle('active', i === index);
+      });
+      indicator.textContent = `Slide ${index + 1} of ${slides.length}`;
+      currentSlide = index;
+    }
+
+    function nextSlide() {
+      if (currentSlide < slides.length - 1) {
+        showSlide(currentSlide + 1);
+      }
+    }
+
+    function prevSlide() {
+      if (currentSlide > 0) {
+        showSlide(currentSlide - 1);
+      }
+    }
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowRight' || e.key === ' ') nextSlide();
+      if (e.key === 'ArrowLeft') prevSlide();
+    });
+
+    function toggleFullscreen() {
+      if (!document.fullscreenElement) {
+        document.documentElement.requestFullscreen();
+      } else {
+        if (document.exitFullscreen) {
+          document.exitFullscreen();
+        }
+      }
+    }
+  </script>
+</body>
+</html>

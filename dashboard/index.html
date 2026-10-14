@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grito Labs | Executive Marketing Attribution & ROI Analytics Dashboard</title>
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- FontAwesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-slate-950 text-slate-100 font-sans antialiased min-h-screen">
+  
+  <!-- Top Navigation Bar -->
+  <nav class="sticky top-0 z-50 bg-slate-900/90 backdrop-blur border-b border-slate-800 px-6 py-3.5 flex items-center justify-between">
+    <div class="flex items-center space-x-4">
+      <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-indigo-600 to-indigo-400 flex items-center justify-center font-extrabold text-white text-lg shadow-lg shadow-indigo-500/20">
+        GL
+      </div>
+      <div>
+        <div class="flex items-center space-x-2">
+          <h1 class="text-base font-bold text-white tracking-tight">Grito Labs Marketing Analytics Engine</h1>
+          <span class="px-2 py-0.5 rounded text-[10px] font-semibold bg-indigo-500/10 text-indigo-400 border border-indigo-500/30">H1 2026 Audit</span>
+        </div>
+        <p class="text-xs text-slate-400">Multi-Channel Attribution &amp; Capital Optimization Framework</p>
+      </div>
+    </div>
+
+    <!-- Right Controls -->
+    <div class="flex items-center space-x-3">
+      <a href="../presentation/deck_presentation.html" class="px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 text-xs font-medium border border-slate-700 transition flex items-center space-x-1.5">
+        <i class="fa-solid fa-chalkboard-user"></i>
+        <span>Executive Slides</span>
+      </a>
+      <a href="../data/Grito_Labs_Marketing_Attribution_Model.xlsx" class="px-3 py-1.5 rounded-lg bg-emerald-600/20 hover:bg-emerald-600/30 text-emerald-400 text-xs font-medium border border-emerald-500/30 transition flex items-center space-x-1.5">
+        <i class="fa-solid fa-file-excel"></i>
+        <span>Download Excel Model</span>
+      </a>
+      <button onclick="window.print()" class="px-3 py-1.5 rounded-lg bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-semibold shadow-md shadow-indigo-600/30 transition flex items-center space-x-1.5">
+        <i class="fa-solid fa-print"></i>
+        <span>Export Report</span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Main Dashboard Content -->
+  <div class="max-w-7xl mx-auto px-6 py-6 space-y-6">
+
+    <!-- Executive KPI Grid -->
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+      <div class="bg-slate-900 border border-slate-800 rounded-xl p-4 shadow-sm hover:border-slate-700 transition">
+        <div class="flex items-center justify-between text-xs text-slate-400 font-medium">
+          <span>MEDIA SPEND</span>
+          <i class="fa-solid fa-wallet text-slate-500"></i>
+        </div>
+        <div class="text-xl font-bold text-white mt-2" id="kpiSpend">$262,897</div>
+        <div class="text-[11px] text-slate-400 mt-1">15 Active Campaigns</div>
+      </div>
+
+      <div class="bg-slate-900 border border-slate-800 rounded-xl p-4 shadow-sm hover:border-slate-700 transition">
+        <div class="flex items-center justify-between text-xs text-slate-400 font-medium">
+          <span>NET REVENUE</span>
+          <i class="fa-solid fa-arrow-trend-up text-emerald-400"></i>
+        </div>
+        <div class="text-xl font-bold text-white mt-2" id="kpiRevenue">$1,646,260</div>
+        <div class="text-[11px] text-emerald-400 mt-1">Net Tuition Collected</div>
+      </div>
+
+      <div class="bg-slate-900 border border-slate-800 rounded-xl p-4 shadow-sm hover:border-slate-700 transition">
+        <div class="flex items-center justify-between text-xs text-slate-400 font-medium">
+          <span>BLENDED ROAS</span>
+          <i class="fa-solid fa-chart-pie text-indigo-400"></i>
+        </div>
+        <div class="text-xl font-bold text-indigo-400 mt-2" id="kpiRoas">6.26x</div>
+        <div class="text-[11px] text-slate-400 mt-1">Paid ROAS: 4.88x</div>
+      </div>
+
+      <div class="bg-slate-900 border border-slate-800 rounded-xl p-4 shadow-sm hover:border-slate-700 transition">
+        <div class="flex items-center justify-between text-xs text-slate-400 font-medium">
+          <span>ENROLLMENTS</span>
+          <i class="fa-solid fa-user-graduate text-blue-400"></i>
+        </div>
+        <div class="text-xl font-bold text-white mt-2" id="kpiConversions">1,385</div>
+        <div class="text-[11px] text-slate-400 mt-1">Converted Students</div>
+      </div>
+
+      <div class="bg-slate-900 border border-slate-800 rounded-xl p-4 shadow-sm hover:border-slate-700 transition">
+        <div class="flex items-center justify-between text-xs text-slate-400 font-medium">
+          <span>BLENDED CAC</span>
+          <i class="fa-solid fa-tag text-amber-400"></i>
+        </div>
+        <div class="text-xl font-bold text-white mt-2" id="kpiCac">$189.82</div>
+        <div class="text-[11px] text-slate-400 mt-1">Paid CAC: $243.42</div>
+      </div>
+
+      <div class="bg-slate-900 border border-slate-800 rounded-xl p-4 shadow-sm hover:border-slate-700 transition">
+        <div class="flex items-center justify-between text-xs text-slate-400 font-medium">
+          <span>AVG TOUCHES</span>
+          <i class="fa-solid fa-route text-rose-400"></i>
+        </div>
+        <div class="text-xl font-bold text-white mt-2" id="kpiTouches">3.41</div>
+        <div class="text-[11px] text-slate-400 mt-1">14.8 Days Consideration</div>
+      </div>
+    </div>
+
+    <!-- Section: Attribution Comparison -->
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+      
+      <!-- Chart Left (2 cols) -->
+      <div class="lg:col-span-2 bg-slate-900 border border-slate-800 rounded-xl p-5 shadow-sm">
+        <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between pb-4 border-b border-slate-800 gap-3">
+          <div>
+            <h2 class="text-sm font-bold text-white uppercase tracking-wider flex items-center space-x-2">
+              <i class="fa-solid fa-chart-column text-indigo-400"></i>
+              <span>Channel Attribution by Methodology</span>
+            </h2>
+            <p class="text-xs text-slate-400 mt-0.5">Compare credit allocation across 6 distinct models</p>
+          </div>
+          <!-- Model Switcher Buttons -->
+          <div class="flex flex-wrap gap-1 bg-slate-950 p-1 rounded-lg border border-slate-800" id="modelSelector">
+            <button onclick="switchModel('markov_chain')" class="model-btn active px-2.5 py-1 text-xs rounded font-medium bg-indigo-600 text-white transition">Markov Chain</button>
+            <button onclick="switchModel('last_touch')" class="model-btn px-2.5 py-1 text-xs rounded font-medium text-slate-400 hover:text-white transition">Last Touch</button>
+            <button onclick="switchModel('first_touch')" class="model-btn px-2.5 py-1 text-xs rounded font-medium text-slate-400 hover:text-white transition">First Touch</button>
+            <button onclick="switchModel('linear')" class="model-btn px-2.5 py-1 text-xs rounded font-medium text-slate-400 hover:text-white transition">Linear</button>
+            <button onclick="switchModel('time_decay')" class="model-btn px-2.5 py-1 text-xs rounded font-medium text-slate-400 hover:text-white transition">Time Decay</button>
+            <button onclick="switchModel('u_shaped')" class="model-btn px-2.5 py-1 text-xs rounded font-medium text-slate-400 hover:text-white transition">U-Shaped</button>
+          </div>
+        </div>
+
+        <div class="mt-4 h-72">
+          <canvas id="attributionChart"></canvas>
+        </div>
+      </div>
+
+      <!-- Right Card: Markov Removal Effects -->
+      <div class="bg-slate-900 border border-slate-800 rounded-xl p-5 shadow-sm flex flex-col justify-between">
+        <div>
+          <div class="flex items-center justify-between pb-3 border-b border-slate-800">
+            <h3 class="text-sm font-bold text-white uppercase tracking-wider flex items-center space-x-2">
+              <i class="fa-solid fa-diagram-project text-emerald-400"></i>
+              <span>Markov Removal Effects</span>
+            </h3>
+            <span class="text-[10px] text-slate-400">Algorithmic Sensitivity</span>
+          </div>
+          <p class="text-xs text-slate-400 mt-2">
+            Simulated drop in total student conversions if a specific marketing channel were eliminated:
+          </p>
+          <div class="mt-4 space-y-3" id="removalEffectsContainer">
+            <!-- Populated via JS -->
+          </div>
+        </div>
+
+        <div class="mt-4 p-3 bg-indigo-950/30 border border-indigo-500/20 rounded-lg text-xs text-indigo-300">
+          <i class="fa-solid fa-lightbulb text-indigo-400 mr-1"></i>
+          <strong>Key Insight:</strong> Last-Touch severely undervalues <strong>Email Marketing</strong> and <strong>Meta Ads</strong> by attributing 48% excess credit to Google Search.
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Section: Interactive What-If Budget Simulator -->
+    <div class="bg-gradient-to-br from-slate-900 to-indigo-950/40 border border-indigo-500/30 rounded-xl p-6 shadow-lg">
+      <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between pb-4 border-b border-slate-800/80 gap-3">
+        <div>
+          <div class="inline-flex items-center space-x-1.5 px-2.5 py-0.5 rounded-full bg-indigo-500/20 border border-indigo-500/40 text-indigo-300 text-[11px] font-bold uppercase tracking-wider mb-1">
+            <i class="fa-solid fa-sliders"></i> Boardroom Simulator
+          </div>
+          <h2 class="text-lg font-bold text-white">Interactive What-If Budget Reallocation Simulator</h2>
+          <p class="text-xs text-slate-400">Drag channel spend sliders to simulate projected enrollment &amp; revenue outcomes using Hill-Markov marginal response curves.</p>
+        </div>
+
+        <div class="flex items-center space-x-3">
+          <button onclick="applyOptimalBudget()" class="px-3.5 py-1.5 rounded-lg bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-semibold shadow-md shadow-emerald-600/30 transition flex items-center space-x-1.5">
+            <i class="fa-solid fa-wand-magic-sparkles"></i>
+            <span>Load Recommended (+74.9k)</span>
+          </button>
+          <button onclick="resetBudget()" class="px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 text-xs font-medium border border-slate-700 transition">
+            Reset to Actual
+          </button>
+        </div>
+      </div>
+
+      <!-- Sliders Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-6 mt-6" id="simulatorSliders">
+        <!-- Generated via app.js -->
+      </div>
+
+      <!-- Simulator Outcome Banner -->
+      <div class="mt-6 pt-5 border-t border-slate-800 grid grid-cols-1 sm:grid-cols-4 gap-4">
+        <div class="bg-slate-900/80 p-3 rounded-lg border border-slate-800">
+          <div class="text-[11px] text-slate-400">SIMULATED SPEND</div>
+          <div class="text-lg font-bold text-white mt-0.5" id="simSpend">$262,897</div>
+          <div class="text-[10px] text-slate-500" id="simSpendDelta">$0 delta (Budget Neutral)</div>
+        </div>
+        <div class="bg-slate-900/80 p-3 rounded-lg border border-slate-800">
+          <div class="text-[11px] text-slate-400">PROJECTED ENROLLMENTS</div>
+          <div class="text-lg font-bold text-white mt-0.5" id="simConv">1,448.5</div>
+          <div class="text-[10px] text-emerald-400 font-semibold" id="simConvDelta">+63.5 students (+5.9%)</div>
+        </div>
+        <div class="bg-slate-900/80 p-3 rounded-lg border border-slate-800">
+          <div class="text-[11px] text-slate-400">PROJECTED REVENUE</div>
+          <div class="text-lg font-bold text-indigo-300 mt-0.5" id="simRev">$1,721,202</div>
+          <div class="text-[10px] text-emerald-400 font-semibold" id="simRevDelta">+$74,942.00 uplift</div>
+        </div>
+        <div class="bg-slate-900/80 p-3 rounded-lg border border-slate-800">
+          <div class="text-[11px] text-slate-400">PROJECTED ROAS</div>
+          <div class="text-lg font-bold text-emerald-400 mt-0.5" id="simRoas">6.55x</div>
+          <div class="text-[10px] text-slate-400" id="simRoasDelta">+0.29x efficiency gain</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Section: Customer Journey Path Explorer & Campaign Table -->
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+
+      <!-- Customer Journey Paths -->
+      <div class="bg-slate-900 border border-slate-800 rounded-xl p-5 shadow-sm">
+        <div class="flex items-center justify-between pb-3 border-b border-slate-800">
+          <div>
+            <h3 class="text-sm font-bold text-white uppercase tracking-wider flex items-center space-x-2">
+              <i class="fa-solid fa-route text-indigo-400"></i>
+              <span>High-Impact Journey Paths</span>
+            </h3>
+            <p class="text-xs text-slate-400 mt-0.5">Top converting multi-touch sequences</p>
+          </div>
+          <span class="text-xs text-slate-400">Ranked by Volume</span>
+        </div>
+
+        <div class="mt-4 divide-y divide-slate-800/80 overflow-y-auto max-h-80" id="journeyPathsList">
+          <!-- Populated via JS -->
+        </div>
+      </div>
+
+      <!-- Campaign Efficiency Deep-Dive -->
+      <div class="bg-slate-900 border border-slate-800 rounded-xl p-5 shadow-sm">
+        <div class="flex items-center justify-between pb-3 border-b border-slate-800">
+          <div>
+            <h3 class="text-sm font-bold text-white uppercase tracking-wider flex items-center space-x-2">
+              <i class="fa-solid fa-list-check text-emerald-400"></i>
+              <span>Campaign Efficiency Audit</span>
+            </h3>
+            <p class="text-xs text-slate-400 mt-0.5">Underperforming vs Scalable Ad Campaigns</p>
+          </div>
+          <span class="text-xs text-slate-400">15 Campaigns</span>
+        </div>
+
+        <div class="mt-4 overflow-x-auto max-h-80">
+          <table class="w-full text-left text-xs">
+            <thead class="bg-slate-950 text-slate-400 sticky top-0">
+              <tr>
+                <th class="p-2">Campaign</th>
+                <th class="p-2">Spend</th>
+                <th class="p-2">ROAS</th>
+                <th class="p-2">CAC</th>
+                <th class="p-2">Status</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-800/80 font-mono" id="campaignTableBody">
+              <!-- Populated via JS -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+  <!-- JavaScript -->
+  <script src="app.js"></script>
+</body>
+</html>
