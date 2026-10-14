@@ -1,0 +1,6 @@
+channel,current_spend_usd,optimized_spend_usd,budget_shift_usd,budget_shift_pct,current_markov_conv,projected_conv,current_markov_rev,projected_rev,projected_roas,projected_cac,strategic_rationale
+Email Marketing,5218.13,7780.88,2562.75,49.1,212.04,262.94,250368.15,310465.5,39.9,29.59,"Scale +45%; highest marginal ROI ($48x ROAS), unutilized lead nurture capacity."
+Google Search,82007.2,100362.99,18355.79,22.4,334.68,374.3,395172.44,441953.44,4.4,268.14,Maintain high investment (+8%); primary high-intent demand capture engine.
+LinkedIn Ads,47451.14,28470.68,-18980.46,-40.0,86.65,63.38,102308.5,74835.72,2.63,449.21,Underperforming CAC ($547); trim budget by -40% to stop marginal bleeding.
+Meta Ads,85764.16,82608.5,-3155.66,-3.7,293.95,287.7,347084.09,339700.78,4.11,287.13,"Rebalance slightly (-5%); saturated lookalike cohorts, focus on high-performing creative reels."
+YouTube Ads,42456.05,43673.63,1217.58,2.9,152.45,154.92,180001.53,182921.26,4.19,281.91,Scale +22%; critical top-of-funnel discovery feeder with strong Markov removal effect.

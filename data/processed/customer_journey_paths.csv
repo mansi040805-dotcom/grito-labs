@@ -1,0 +1,712 @@
+journey_path,touchpoints_count,total_prospects,total_conversions,conversion_rate_pct,total_net_revenue_usd
+Meta Ads,1,626,53,8.47,63235.0
+Meta Ads > Google Search,2,90,42,46.67,53525.0
+Meta Ads > Email Marketing,2,141,41,29.08,48100.0
+YouTube Ads,1,439,40,9.11,47092.5
+Organic Search > Google Search,2,62,34,54.84,40642.5
+Organic Search,1,402,28,6.97,34020.0
+YouTube Ads > Google Search,2,59,22,37.29,26242.5
+Google Search,1,283,20,7.07,23597.5
+Meta Ads > Referral & Direct,2,19,19,100.0,21952.5
+Meta Ads > Email Marketing > Google Search,3,22,18,81.82,22020.0
+YouTube Ads > Email Marketing > Google Search,3,22,17,77.27,20062.5
+LinkedIn Ads,1,211,17,8.06,19535.0
+YouTube Ads > Email Marketing,2,105,16,15.24,20400.0
+Google Search > Google Search,2,37,15,40.54,15540.0
+Meta Ads > Meta Ads > Google Search,3,26,15,57.69,15237.5
+Organic Search > Email Marketing > Google Search,3,19,14,73.68,18877.5
+YouTube Ads > Referral & Direct,2,13,13,100.0,14530.0
+Organic Search > Email Marketing,2,86,11,12.79,14595.0
+Meta Ads > Google Search > Google Search,3,18,11,61.11,13025.0
+Meta Ads > Meta Ads,2,72,11,15.28,11830.0
+YouTube Ads > Organic Search,2,24,10,41.67,10707.5
+YouTube Ads > Email Marketing > Email Marketing,3,22,10,45.45,12477.5
+Google Search > Email Marketing,2,58,9,15.52,10355.0
+YouTube Ads > Meta Ads > Google Search,3,16,9,56.25,11635.0
+Meta Ads > Organic Search,2,31,9,29.03,8915.0
+Organic Search > Meta Ads,2,55,9,16.36,11202.5
+Google Search > Email Marketing > Google Search,3,8,8,100.0,10622.5
+Meta Ads > Email Marketing > Email Marketing,3,24,8,33.33,8420.0
+Meta Ads > LinkedIn Ads > Google Search,3,10,8,80.0,9377.5
+YouTube Ads > Email Marketing > Meta Ads,3,12,8,66.67,10577.5
+Google Search > Meta Ads,2,27,8,29.63,9527.5
+LinkedIn Ads > Email Marketing,2,42,8,19.05,10117.5
+LinkedIn Ads > Google Search,2,28,7,25.0,8217.5
+YouTube Ads > Meta Ads,2,48,7,14.58,7377.5
+LinkedIn Ads > Email Marketing > Google Search,3,12,7,58.33,7550.0
+Meta Ads > Meta Ads > Email Marketing,3,17,7,41.18,7300.0
+Referral & Direct > Email Marketing,2,15,7,46.67,6872.5
+Meta Ads > Email Marketing > Email Marketing > Google Search,4,9,7,77.78,7892.5
+Referral & Direct > Google Search,2,15,7,46.67,8450.0
+LinkedIn Ads > Meta Ads > Email Marketing,3,9,7,77.78,9000.0
+YouTube Ads > Google Search > Email Marketing,3,11,7,63.64,7710.0
+Google Search > Email Marketing > Email Marketing,3,15,6,40.0,7147.5
+Organic Search > Google Search > Google Search,3,8,6,75.0,8492.5
+LinkedIn Ads > Meta Ads,2,19,6,31.58,7850.0
+Meta Ads > Organic Search > Email Marketing,3,11,6,54.55,6015.0
+Meta Ads > Meta Ads > Meta Ads,3,10,6,60.0,7312.5
+YouTube Ads > YouTube Ads > Google Search,3,6,5,83.33,5760.0
+Organic Search > Email Marketing > Meta Ads,3,12,5,41.67,5627.5
+Organic Search > Organic Search,2,12,5,41.67,5365.0
+YouTube Ads > Google Search > Google Search,3,8,5,62.5,6682.5
+Organic Search > Meta Ads > Google Search,3,11,5,45.45,6620.0
+Google Search > Organic Search,2,11,5,45.45,7435.0
+Meta Ads > LinkedIn Ads > Email Marketing,3,12,5,41.67,6512.5
+Organic Search > Google Search > Email Marketing,3,9,5,55.56,5895.0
+Meta Ads > Email Marketing > Referral & Direct,3,5,5,100.0,7380.0
+YouTube Ads > Email Marketing > Organic Search,3,6,5,83.33,5557.5
+YouTube Ads > Email Marketing > Referral & Direct,3,5,5,100.0,6250.0
+Meta Ads > Google Search > Email Marketing,3,12,4,33.33,3910.0
+YouTube Ads > Meta Ads > Referral & Direct,3,4,4,100.0,5287.5
+Organic Search > Email Marketing > Email Marketing,3,16,4,25.0,4305.0
+Google Search > Meta Ads > Google Search,3,7,4,57.14,4750.0
+Meta Ads > LinkedIn Ads > Email Marketing > Google Search,4,5,4,80.0,5475.0
+LinkedIn Ads > Google Search > Google Search,3,5,4,80.0,4802.5
+Referral & Direct > Google Search > Email Marketing,3,6,4,66.67,5600.0
+LinkedIn Ads > Organic Search,2,9,4,44.44,5230.0
+Organic Search > Meta Ads > Referral & Direct,3,4,4,100.0,3815.0
+YouTube Ads > Google Search > Meta Ads > Google Search,4,4,4,100.0,4512.5
+Google Search > Meta Ads > Email Marketing > Referral & Direct,4,4,4,100.0,4440.0
+Organic Search > Email Marketing > Referral & Direct,3,4,4,100.0,5240.0
+YouTube Ads > Google Search > Meta Ads,3,9,4,44.44,4257.5
+Organic Search > Referral & Direct,2,4,4,100.0,4325.0
+Organic Search > LinkedIn Ads > Google Search,3,5,4,80.0,5132.5
+LinkedIn Ads > Meta Ads > Google Search,3,5,3,60.0,4672.5
+Meta Ads > YouTube Ads > Referral & Direct,3,3,3,100.0,2835.0
+YouTube Ads > Meta Ads > Meta Ads,3,7,3,42.86,3470.0
+Meta Ads > Google Search > Meta Ads > Google Search,4,3,3,100.0,4095.0
+Meta Ads > Meta Ads > Referral & Direct,3,3,3,100.0,2960.0
+YouTube Ads > Email Marketing > Email Marketing > Google Search,4,5,3,60.0,3072.5
+Meta Ads > LinkedIn Ads > Email Marketing > Meta Ads,4,4,3,75.0,3307.5
+YouTube Ads > Meta Ads > Email Marketing > Google Search,4,5,3,60.0,3450.0
+Referral & Direct > Google Search > Google Search,3,3,3,100.0,3262.5
+Referral & Direct > Meta Ads > Email Marketing,3,6,3,50.0,3355.0
+Meta Ads > Organic Search > Google Search,3,4,3,75.0,3260.0
+Meta Ads > Email Marketing > Email Marketing > Email Marketing,4,7,3,42.86,2612.5
+YouTube Ads > Email Marketing > Google Search > Google Search,4,4,3,75.0,4037.5
+YouTube Ads > Meta Ads > Email Marketing,3,12,3,25.0,2850.0
+Meta Ads > Meta Ads > Email Marketing > Google Search,4,3,3,100.0,2755.0
+Referral & Direct > Meta Ads > Google Search,3,3,3,100.0,3190.0
+Google Search > Google Search > Referral & Direct,3,3,3,100.0,3282.5
+LinkedIn Ads > Email Marketing > LinkedIn Ads > Google Search,4,4,3,75.0,2882.5
+Google Search > Organic Search > Google Search,3,4,3,75.0,2470.0
+Meta Ads > Meta Ads > Meta Ads > Meta Ads,4,3,3,100.0,3055.0
+LinkedIn Ads > Google Search > Meta Ads,3,3,3,100.0,3800.0
+Organic Search > Google Search > Email Marketing > Referral & Direct,4,3,3,100.0,4050.0
+Google Search > LinkedIn Ads > Meta Ads,3,4,3,75.0,3947.5
+Meta Ads > Organic Search > Meta Ads,3,3,3,100.0,3907.5
+Organic Search > YouTube Ads > Email Marketing,3,5,3,60.0,2835.0
+Meta Ads > Email Marketing > Organic Search,3,6,3,50.0,3375.0
+Meta Ads > LinkedIn Ads > Referral & Direct,3,3,3,100.0,4137.5
+YouTube Ads > Google Search > Referral & Direct,3,3,3,100.0,3250.0
+Meta Ads > Google Search > Referral & Direct,3,3,3,100.0,3262.5
+YouTube Ads > YouTube Ads > Email Marketing,3,5,3,60.0,3135.0
+YouTube Ads > YouTube Ads > Meta Ads,3,4,3,75.0,3450.0
+Google Search > Email Marketing > Meta Ads,3,6,3,50.0,3907.5
+Meta Ads > YouTube Ads > Email Marketing,3,3,3,100.0,3955.0
+Google Search > Google Search > Google Search,3,4,3,75.0,3955.0
+Google Search > Meta Ads > Meta Ads,3,4,3,75.0,4350.0
+YouTube Ads > YouTube Ads > Referral & Direct,3,3,3,100.0,3750.0
+LinkedIn Ads > Meta Ads > Referral & Direct,3,3,3,100.0,2755.0
+Google Search > Referral & Direct,2,3,3,100.0,3657.5
+LinkedIn Ads > Referral & Direct,2,3,3,100.0,3767.5
+Referral & Direct,1,78,2,2.56,1932.5
+Organic Search > Meta Ads > Meta Ads > Google Search,4,4,2,50.0,2057.5
+Meta Ads > YouTube Ads > Organic Search,3,4,2,50.0,2800.0
+YouTube Ads > Google Search > YouTube Ads > Email Marketing,4,2,2,100.0,2105.0
+Meta Ads > Email Marketing > Meta Ads,3,15,2,13.33,2200.0
+Referral & Direct > Email Marketing > Email Marketing,3,5,2,40.0,1710.0
+Meta Ads > Email Marketing > Google Search > Google Search,4,2,2,100.0,1757.5
+Google Search > LinkedIn Ads > Email Marketing,3,4,2,50.0,1950.0
+LinkedIn Ads > Email Marketing > Meta Ads,3,7,2,28.57,2312.5
+Organic Search > YouTube Ads > Google Search,3,6,2,33.33,1980.0
+Organic Search > Organic Search > Referral & Direct,3,2,2,100.0,2075.0
+Meta Ads > Google Search > Organic Search,3,2,2,100.0,2500.0
+Meta Ads > Google Search > Meta Ads,3,7,2,28.57,2730.0
+LinkedIn Ads > Email Marketing > Email Marketing,3,5,2,40.0,1950.0
+Meta Ads > Email Marketing > Meta Ads > Email Marketing > Email Marketing,5,2,2,100.0,2500.0
+Google Search > Email Marketing > Meta Ads > YouTube Ads > Google Search,5,2,2,100.0,2200.0
+YouTube Ads > Email Marketing > LinkedIn Ads > Google Search,4,2,2,100.0,3100.0
+Google Search > Meta Ads > Referral & Direct,3,2,2,100.0,2010.0
+LinkedIn Ads > Email Marketing > Referral & Direct,3,2,2,100.0,2375.0
+LinkedIn Ads > YouTube Ads > Meta Ads,3,2,2,100.0,2200.0
+YouTube Ads > LinkedIn Ads > Email Marketing,3,6,2,33.33,1855.0
+Meta Ads > Meta Ads > Organic Search,3,3,2,66.67,1950.0
+Organic Search > Google Search > Meta Ads,3,7,2,28.57,2375.0
+Google Search > LinkedIn Ads > Google Search,3,3,2,66.67,2800.0
+Organic Search > LinkedIn Ads > Meta Ads,3,3,2,66.67,2615.0
+Google Search > Google Search > Email Marketing > Google Search,4,2,2,100.0,1807.5
+YouTube Ads > Email Marketing > Organic Search > Meta Ads,4,2,2,100.0,2375.0
+Meta Ads > Google Search > Meta Ads > Organic Search,4,2,2,100.0,3422.5
+Meta Ads > Google Search > Meta Ads > Referral & Direct,4,2,2,100.0,3100.0
+Google Search > Google Search > Meta Ads,3,4,2,50.0,1950.0
+Meta Ads > Meta Ads > Meta Ads > Google Search,4,4,2,50.0,1805.0
+Google Search > YouTube Ads > Google Search,3,2,2,100.0,2312.5
+LinkedIn Ads > LinkedIn Ads > Email Marketing,3,3,2,66.67,1567.5
+Organic Search > Meta Ads > Email Marketing,3,10,2,20.0,3100.0
+Meta Ads > Meta Ads > LinkedIn Ads > Referral & Direct,4,2,2,100.0,2375.0
+Organic Search > Meta Ads > Email Marketing > Email Marketing,4,2,2,100.0,2500.0
+LinkedIn Ads > Meta Ads > Meta Ads,3,5,2,40.0,2200.0
+LinkedIn Ads > Email Marketing > Organic Search,3,5,2,40.0,1900.0
+Meta Ads > Google Search > Email Marketing > Google Search,4,2,2,100.0,1900.0
+Google Search > Email Marketing > Referral & Direct,3,2,2,100.0,2472.5
+Google Search > Google Search > Meta Ads > Email Marketing,4,3,2,66.67,2012.5
+Meta Ads > Email Marketing > Email Marketing > Meta Ads > Google Search,5,2,2,100.0,2200.0
+LinkedIn Ads > Meta Ads > Organic Search,3,2,2,100.0,3100.0
+Google Search > Meta Ads > Google Search > Google Search,4,2,2,100.0,2380.0
+Referral & Direct > Referral & Direct,2,2,2,100.0,1950.0
+Meta Ads > Meta Ads > Organic Search > Email Marketing,4,2,2,100.0,3100.0
+YouTube Ads > Google Search > Meta Ads > Email Marketing,4,2,2,100.0,1805.0
+Meta Ads > Email Marketing > Meta Ads > Google Search > Referral & Direct,5,2,2,100.0,2430.0
+Referral & Direct > Meta Ads > Meta Ads > Referral & Direct,4,2,2,100.0,2075.0
+Google Search > Email Marketing > Email Marketing > Google Search,4,2,2,100.0,3515.0
+Organic Search > Meta Ads > LinkedIn Ads > Google Search > Email Marketing > Google Search,6,2,2,100.0,2522.5
+Meta Ads > Organic Search > LinkedIn Ads > Email Marketing,4,2,2,100.0,2075.0
+Meta Ads > Google Search > Meta Ads > Email Marketing,4,2,2,100.0,2057.5
+Organic Search > Meta Ads > Organic Search,3,2,2,100.0,1615.0
+Meta Ads > YouTube Ads > Meta Ads,3,5,2,40.0,2000.0
+Meta Ads > Meta Ads > Google Search > Email Marketing,4,3,2,66.67,2850.0
+YouTube Ads > Email Marketing > Email Marketing > Organic Search > Google Search,5,2,2,100.0,1950.0
+Meta Ads > YouTube Ads > Google Search,3,3,2,66.67,2250.0
+YouTube Ads > Email Marketing > Meta Ads > Organic Search,4,3,2,66.67,2657.5
+Google Search > Email Marketing > Meta Ads > Referral & Direct,4,2,2,100.0,2800.0
+Google Search > Email Marketing > Google Search > Email Marketing,4,2,2,100.0,2800.0
+YouTube Ads > LinkedIn Ads > Google Search,3,3,2,66.67,2200.0
+Meta Ads > Meta Ads > Organic Search > Meta Ads > Google Search,5,2,2,100.0,2012.5
+LinkedIn Ads > LinkedIn Ads > Google Search,3,2,2,100.0,2500.0
+Google Search > Email Marketing > Meta Ads > Email Marketing,4,2,2,100.0,2012.5
+Google Search > Google Search > Google Search > Google Search > Google Search,5,1,1,100.0,1250.0
+Meta Ads > Meta Ads > LinkedIn Ads > Email Marketing > Organic Search > Email Marketing > Google Search,7,1,1,100.0,1062.5
+Google Search > Meta Ads > Organic Search > Email Marketing > Google Search,5,1,1,100.0,1572.5
+Meta Ads > Organic Search > Meta Ads > Email Marketing > Email Marketing,5,1,1,100.0,1062.5
+YouTube Ads > LinkedIn Ads > Google Search > Meta Ads,4,1,1,100.0,1250.0
+Organic Search > Organic Search > LinkedIn Ads > Google Search > Email Marketing,5,1,1,100.0,1250.0
+Organic Search > Email Marketing > Organic Search > Google Search,4,1,1,100.0,950.0
+Organic Search > Email Marketing > Google Search > Email Marketing > Google Search,5,1,1,100.0,1000.0
+Meta Ads > Email Marketing > Email Marketing > Google Search > Referral & Direct,5,1,1,100.0,1125.0
+Meta Ads > Meta Ads > Email Marketing > Email Marketing,4,1,1,100.0,855.0
+Meta Ads > Google Search > Email Marketing > Email Marketing > YouTube Ads > Organic Search,6,1,1,100.0,1250.0
+YouTube Ads > YouTube Ads > YouTube Ads > Referral & Direct,4,1,1,100.0,1250.0
+YouTube Ads > Email Marketing > Email Marketing > Email Marketing,4,3,1,33.33,1250.0
+Meta Ads > Email Marketing > Email Marketing > Google Search > Meta Ads > Meta Ads > Referral & Direct,7,1,1,100.0,1250.0
+Google Search > LinkedIn Ads > Email Marketing > Google Search,4,1,1,100.0,1250.0
+YouTube Ads > Meta Ads > Organic Search > Email Marketing > LinkedIn Ads > Google Search,6,1,1,100.0,1250.0
+Google Search > LinkedIn Ads > Google Search > Email Marketing,4,1,1,100.0,1665.0
+Meta Ads > Organic Search > Email Marketing > Email Marketing > Email Marketing,5,1,1,100.0,1480.0
+YouTube Ads > Google Search > Organic Search > Google Search,4,1,1,100.0,1062.5
+YouTube Ads > LinkedIn Ads > Referral & Direct,3,1,1,100.0,1665.0
+LinkedIn Ads > Meta Ads > Google Search > Google Search,4,2,1,50.0,1850.0
+Referral & Direct > Meta Ads > Organic Search,3,1,1,100.0,1062.5
+YouTube Ads > Meta Ads > YouTube Ads > Organic Search,4,1,1,100.0,807.5
+Meta Ads > Email Marketing > Meta Ads > LinkedIn Ads > Email Marketing > Meta Ads,6,1,1,100.0,1572.5
+Meta Ads > Email Marketing > Google Search > Email Marketing > Meta Ads > LinkedIn Ads > Google Search,7,1,1,100.0,950.0
+Google Search > Email Marketing > Email Marketing > Meta Ads > Google Search,5,1,1,100.0,1250.0
+LinkedIn Ads > Organic Search > Google Search,3,2,1,50.0,950.0
+Organic Search > Meta Ads > Meta Ads,3,4,1,25.0,1250.0
+YouTube Ads > Google Search > Email Marketing > Meta Ads,4,2,1,50.0,1000.0
+Referral & Direct > LinkedIn Ads > Meta Ads,3,1,1,100.0,950.0
+Organic Search > LinkedIn Ads > Email Marketing > Google Search > Google Search,5,1,1,100.0,1250.0
+LinkedIn Ads > Google Search > Google Search > Organic Search,4,1,1,100.0,1850.0
+Meta Ads > Meta Ads > Meta Ads > Meta Ads > Google Search,5,1,1,100.0,855.0
+Meta Ads > YouTube Ads > Email Marketing > Meta Ads > Google Search > Google Search,6,1,1,100.0,1000.0
+Google Search > Meta Ads > YouTube Ads > Email Marketing > Organic Search,5,1,1,100.0,1250.0
+Google Search > YouTube Ads > Email Marketing > Google Search > Google Search > LinkedIn Ads > Email Marketing,7,1,1,100.0,1850.0
+Organic Search > LinkedIn Ads > Email Marketing,3,5,1,20.0,1250.0
+Meta Ads > Organic Search > Email Marketing > Meta Ads > Meta Ads > Google Search,6,1,1,100.0,1250.0
+Organic Search > YouTube Ads > Email Marketing > Email Marketing > Google Search,5,1,1,100.0,1850.0
+Google Search > Email Marketing > Email Marketing > Email Marketing > Referral & Direct,5,1,1,100.0,1250.0
+Google Search > Google Search > Email Marketing > Referral & Direct,4,1,1,100.0,1572.5
+Organic Search > Meta Ads > Email Marketing > Google Search > Meta Ads > YouTube Ads > Referral & Direct,7,1,1,100.0,1480.0
+Organic Search > Meta Ads > YouTube Ads > Email Marketing > Google Search,5,1,1,100.0,950.0
+Google Search > Email Marketing > LinkedIn Ads > Email Marketing,4,1,1,100.0,1850.0
+Organic Search > LinkedIn Ads > Meta Ads > Referral & Direct,4,1,1,100.0,1572.5
+YouTube Ads > Meta Ads > Meta Ads > Referral & Direct,4,1,1,100.0,1850.0
+LinkedIn Ads > Meta Ads > Google Search > Email Marketing,4,2,1,50.0,1250.0
+Organic Search > Organic Search > Google Search,3,2,1,50.0,855.0
+Organic Search > Google Search > Email Marketing > Email Marketing > Email Marketing,5,1,1,100.0,1000.0
+Meta Ads > LinkedIn Ads > Meta Ads,3,4,1,25.0,1250.0
+Meta Ads > LinkedIn Ads > Email Marketing > Meta Ads > Email Marketing,5,1,1,100.0,950.0
+YouTube Ads > Meta Ads > Email Marketing > Organic Search,4,2,1,50.0,1850.0
+Meta Ads > Google Search > Organic Search > Meta Ads,4,2,1,50.0,1250.0
+LinkedIn Ads > Google Search > Email Marketing,3,3,1,33.33,1250.0
+Organic Search > Email Marketing > Meta Ads > Google Search,4,2,1,50.0,1250.0
+Meta Ads > Email Marketing > Meta Ads > Email Marketing,4,3,1,33.33,1572.5
+YouTube Ads > Meta Ads > Email Marketing > Organic Search > Email Marketing,5,1,1,100.0,1000.0
+Organic Search > Email Marketing > LinkedIn Ads > Referral & Direct,4,1,1,100.0,1572.5
+Organic Search > Organic Search > Organic Search,3,1,1,100.0,1000.0
+YouTube Ads > Google Search > Meta Ads > Meta Ads > Google Search > YouTube Ads > Meta Ads,7,1,1,100.0,760.0
+Google Search > Organic Search > Organic Search,3,1,1,100.0,950.0
+Referral & Direct > Google Search > Email Marketing > Email Marketing,4,1,1,100.0,1125.0
+Meta Ads > Google Search > Meta Ads > Meta Ads > Meta Ads,5,1,1,100.0,1062.5
+Google Search > Meta Ads > Email Marketing > Google Search,4,2,1,50.0,1000.0
+Organic Search > Meta Ads > Meta Ads > YouTube Ads > Google Search,5,1,1,100.0,950.0
+YouTube Ads > Email Marketing > Google Search > Email Marketing,4,1,1,100.0,950.0
+YouTube Ads > Meta Ads > Meta Ads > Google Search > Referral & Direct,5,1,1,100.0,1850.0
+Organic Search > Email Marketing > Google Search > Google Search,4,1,1,100.0,1250.0
+YouTube Ads > LinkedIn Ads > Meta Ads > Meta Ads,4,1,1,100.0,1250.0
+Meta Ads > Google Search > Email Marketing > Email Marketing > Email Marketing > Google Search,6,1,1,100.0,950.0
+Referral & Direct > Meta Ads,2,5,1,20.0,1250.0
+Meta Ads > Organic Search > Email Marketing > Email Marketing,4,2,1,50.0,807.5
+Google Search > Organic Search > Meta Ads,3,2,1,50.0,1125.0
+Organic Search > Email Marketing > Meta Ads > Meta Ads,4,5,1,20.0,950.0
+YouTube Ads > Google Search > Email Marketing > Email Marketing > Google Search > YouTube Ads > Referral & Direct,7,1,1,100.0,1250.0
+Organic Search > Email Marketing > Google Search > Meta Ads > Referral & Direct,5,1,1,100.0,807.5
+YouTube Ads > Google Search > Organic Search,3,4,1,25.0,807.5
+Referral & Direct > Email Marketing > Email Marketing > Referral & Direct,4,1,1,100.0,855.0
+Google Search > Email Marketing > Meta Ads > Email Marketing > LinkedIn Ads > Google Search,6,1,1,100.0,950.0
+Meta Ads > Email Marketing > YouTube Ads > Organic Search > Google Search > Meta Ads,6,1,1,100.0,1250.0
+Google Search > Email Marketing > Organic Search > Organic Search > Organic Search,5,1,1,100.0,855.0
+Organic Search > Google Search > YouTube Ads > Google Search,4,1,1,100.0,950.0
+Meta Ads > LinkedIn Ads > Email Marketing > Referral & Direct,4,1,1,100.0,950.0
+Google Search > Email Marketing > Organic Search,3,1,1,100.0,855.0
+YouTube Ads > Meta Ads > Email Marketing > Email Marketing,4,6,1,16.67,1250.0
+Google Search > Email Marketing > Google Search > Google Search > YouTube Ads > Meta Ads > Email Marketing,7,1,1,100.0,1250.0
+YouTube Ads > Google Search > Email Marketing > Organic Search,4,2,1,50.0,1062.5
+Google Search > YouTube Ads > Meta Ads > Meta Ads,4,1,1,100.0,760.0
+Meta Ads > Email Marketing > Email Marketing > Referral & Direct,4,1,1,100.0,1125.0
+Organic Search > LinkedIn Ads > Email Marketing > Meta Ads,4,1,1,100.0,1250.0
+YouTube Ads > Meta Ads > Meta Ads > Meta Ads,4,1,1,100.0,1250.0
+YouTube Ads > Meta Ads > Meta Ads > Meta Ads > Meta Ads,5,1,1,100.0,807.5
+Meta Ads > LinkedIn Ads > Organic Search,3,1,1,100.0,950.0
+LinkedIn Ads > YouTube Ads > Google Search > Email Marketing,4,1,1,100.0,1250.0
+Referral & Direct > LinkedIn Ads > Email Marketing > Email Marketing > Google Search,5,1,1,100.0,1850.0
+Meta Ads > Email Marketing > Meta Ads > Email Marketing > Google Search > Google Search,6,1,1,100.0,950.0
+Organic Search > YouTube Ads > Meta Ads > Google Search,4,1,1,100.0,1572.5
+YouTube Ads > YouTube Ads > Email Marketing > Meta Ads > Google Search,5,1,1,100.0,1250.0
+LinkedIn Ads > Email Marketing > Meta Ads > Email Marketing,4,2,1,50.0,1850.0
+YouTube Ads > Meta Ads > Meta Ads > Email Marketing > Email Marketing > Email Marketing,6,1,1,100.0,1250.0
+Google Search > Google Search > Organic Search > Email Marketing > Meta Ads,5,1,1,100.0,855.0
+Organic Search > YouTube Ads > Referral & Direct,3,1,1,100.0,1250.0
+Referral & Direct > Google Search > Organic Search > Meta Ads > Organic Search,5,1,1,100.0,855.0
+Organic Search > YouTube Ads > Meta Ads,3,1,1,100.0,1125.0
+Referral & Direct > Email Marketing > Email Marketing > Email Marketing,4,2,1,50.0,1250.0
+Google Search > Email Marketing > Email Marketing > Organic Search > Meta Ads,5,1,1,100.0,1125.0
+YouTube Ads > Email Marketing > Meta Ads > Email Marketing,4,2,1,50.0,1850.0
+Meta Ads > Organic Search > Google Search > Google Search,4,1,1,100.0,1250.0
+Meta Ads > Google Search > Meta Ads > Google Search > Referral & Direct,5,1,1,100.0,855.0
+LinkedIn Ads > Email Marketing > Google Search > LinkedIn Ads > LinkedIn Ads > Google Search > Referral & Direct,7,1,1,100.0,950.0
+LinkedIn Ads > Google Search > Email Marketing > Email Marketing > YouTube Ads > Meta Ads > Google Search,7,1,1,100.0,950.0
+YouTube Ads > Email Marketing > Google Search > Meta Ads,4,1,1,100.0,1250.0
+YouTube Ads > Organic Search > YouTube Ads > Referral & Direct,4,1,1,100.0,950.0
+Meta Ads > Google Search > Google Search > Email Marketing,4,2,1,50.0,950.0
+YouTube Ads > Google Search > Google Search > Google Search,4,2,1,50.0,1850.0
+Organic Search > Google Search > LinkedIn Ads > Meta Ads > Email Marketing,5,1,1,100.0,1250.0
+Google Search > Google Search > Meta Ads > Meta Ads > Meta Ads,5,1,1,100.0,950.0
+Google Search > Meta Ads > Google Search > Google Search > LinkedIn Ads > Email Marketing,6,1,1,100.0,1665.0
+YouTube Ads > Email Marketing > Email Marketing > Email Marketing > Meta Ads > Google Search,6,1,1,100.0,1125.0
+Google Search > Google Search > Organic Search,3,3,1,33.33,807.5
+Organic Search > Email Marketing > Email Marketing > Meta Ads,4,2,1,50.0,1572.5
+LinkedIn Ads > Email Marketing > Email Marketing > Email Marketing,4,2,1,50.0,1062.5
+Organic Search > YouTube Ads > Meta Ads > Email Marketing,4,2,1,50.0,807.5
+Meta Ads > Google Search > Google Search > Meta Ads > Referral & Direct,5,1,1,100.0,950.0
+LinkedIn Ads > Meta Ads > Meta Ads > Meta Ads,4,1,1,100.0,1000.0
+LinkedIn Ads > LinkedIn Ads > Organic Search,3,1,1,100.0,950.0
+Meta Ads > Google Search > Meta Ads > Meta Ads,4,3,1,33.33,855.0
+Google Search > Google Search > YouTube Ads > Google Search,4,1,1,100.0,807.5
+Organic Search > Meta Ads > Organic Search > Google Search,4,1,1,100.0,950.0
+Meta Ads > Email Marketing > Meta Ads > Google Search,4,2,1,50.0,1250.0
+LinkedIn Ads > LinkedIn Ads > Referral & Direct,3,1,1,100.0,1250.0
+Organic Search > Organic Search > YouTube Ads > Email Marketing,4,1,1,100.0,760.0
+Organic Search > YouTube Ads > Meta Ads > Meta Ads > Referral & Direct,5,1,1,100.0,807.5
+Meta Ads > Organic Search > Email Marketing > Google Search > Email Marketing,5,1,1,100.0,1250.0
+Meta Ads > Email Marketing > Organic Search > Email Marketing,4,1,1,100.0,1125.0
+Organic Search > Google Search > YouTube Ads > Organic Search > Email Marketing,5,1,1,100.0,950.0
+Meta Ads > Meta Ads > Email Marketing > Google Search > Meta Ads,5,1,1,100.0,1480.0
+YouTube Ads > Email Marketing > Meta Ads > Organic Search > Google Search,5,1,1,100.0,1062.5
+LinkedIn Ads > Meta Ads > LinkedIn Ads > Referral & Direct,4,1,1,100.0,1250.0
+YouTube Ads > Email Marketing > Meta Ads > Google Search > Email Marketing > Organic Search > Email Marketing,7,1,1,100.0,1000.0
+LinkedIn Ads > Email Marketing > Email Marketing > Meta Ads > Organic Search,5,1,1,100.0,807.5
+YouTube Ads > Email Marketing > Organic Search > Referral & Direct,4,1,1,100.0,1062.5
+Meta Ads > Email Marketing > Meta Ads > Email Marketing > Meta Ads > Google Search,6,1,1,100.0,855.0
+Organic Search > YouTube Ads > YouTube Ads > Meta Ads,4,1,1,100.0,950.0
+Google Search > Meta Ads > Email Marketing > Email Marketing > Google Search > Google Search,6,1,1,100.0,950.0
+LinkedIn Ads > LinkedIn Ads > Email Marketing > Google Search,4,1,1,100.0,855.0
+Organic Search > Meta Ads > YouTube Ads > Email Marketing,4,1,1,100.0,1250.0
+Meta Ads > Google Search > LinkedIn Ads > Referral & Direct,4,1,1,100.0,1250.0
+Organic Search > Google Search > Google Search > Organic Search,4,1,1,100.0,1850.0
+YouTube Ads > LinkedIn Ads > Meta Ads,3,5,1,20.0,760.0
+Organic Search > Meta Ads > Google Search > Referral & Direct,4,1,1,100.0,1062.5
+Organic Search > Email Marketing > Google Search > Referral & Direct,4,1,1,100.0,1850.0
+YouTube Ads > Google Search > Google Search > Organic Search > Meta Ads > Google Search > Email Marketing,7,1,1,100.0,1250.0
+Meta Ads > Email Marketing > Email Marketing > Google Search > Meta Ads > Meta Ads,6,1,1,100.0,1480.0
+YouTube Ads > Email Marketing > Organic Search > Google Search,4,1,1,100.0,1062.5
+Google Search > Email Marketing > Email Marketing > YouTube Ads > Meta Ads > LinkedIn Ads > Referral & Direct,7,1,1,100.0,1250.0
+LinkedIn Ads > Email Marketing > Email Marketing > Email Marketing > Organic Search > Google Search > Email Marketing,7,1,1,100.0,1250.0
+Meta Ads > Email Marketing > LinkedIn Ads > Google Search,4,1,1,100.0,1850.0
+YouTube Ads > Email Marketing > Email Marketing > Meta Ads > Google Search,5,1,1,100.0,1250.0
+Organic Search > Meta Ads > Meta Ads > LinkedIn Ads > Google Search,5,1,1,100.0,1062.5
+Organic Search > Organic Search > Email Marketing,3,1,1,100.0,1000.0
+YouTube Ads > Google Search > Email Marketing > Google Search,4,1,1,100.0,950.0
+LinkedIn Ads > YouTube Ads > LinkedIn Ads > Referral & Direct,4,1,1,100.0,1480.0
+YouTube Ads > Meta Ads > Email Marketing > Meta Ads > YouTube Ads > Email Marketing,6,1,1,100.0,1850.0
+YouTube Ads > Meta Ads > LinkedIn Ads > Email Marketing,4,2,1,50.0,1250.0
+YouTube Ads > Organic Search > Google Search,3,2,1,50.0,950.0
+YouTube Ads > Email Marketing > Meta Ads > Email Marketing > Meta Ads,5,1,1,100.0,1850.0
+Meta Ads > Email Marketing > Organic Search > Email Marketing > Organic Search,5,1,1,100.0,1250.0
+Meta Ads > Email Marketing > Email Marketing > Email Marketing > Google Search,5,1,1,100.0,855.0
+Meta Ads > Email Marketing > Meta Ads > Meta Ads,4,2,1,50.0,1665.0
+Organic Search > LinkedIn Ads > Email Marketing > Email Marketing > Meta Ads,5,1,1,100.0,950.0
+LinkedIn Ads > YouTube Ads > Google Search,3,2,1,50.0,950.0
+YouTube Ads > LinkedIn Ads > Google Search > Organic Search > Meta Ads,5,1,1,100.0,950.0
+Referral & Direct > LinkedIn Ads > Meta Ads > LinkedIn Ads > Email Marketing > Google Search,6,1,1,100.0,1572.5
+LinkedIn Ads > Meta Ads > Google Search > Organic Search > Email Marketing > Google Search,6,1,1,100.0,1000.0
+Meta Ads > Google Search > Meta Ads > YouTube Ads > Organic Search > Meta Ads,6,1,1,100.0,1125.0
+LinkedIn Ads > Meta Ads > Google Search > Meta Ads > Email Marketing > Meta Ads > Google Search,7,1,1,100.0,1062.5
+Meta Ads > Google Search > Google Search > Meta Ads > Email Marketing > Referral & Direct,6,1,1,100.0,760.0
+YouTube Ads > Meta Ads > YouTube Ads > Email Marketing > Email Marketing,5,1,1,100.0,807.5
+Google Search > Meta Ads > YouTube Ads > Google Search,4,1,1,100.0,950.0
+YouTube Ads > Meta Ads > Organic Search > Google Search > Email Marketing > Google Search,6,1,1,100.0,1250.0
+Referral & Direct > Google Search > Meta Ads > Google Search,4,3,1,33.33,1850.0
+Meta Ads > Google Search > LinkedIn Ads > Meta Ads > Google Search,5,1,1,100.0,1250.0
+Meta Ads > Email Marketing > Email Marketing > Meta Ads > Meta Ads,5,1,1,100.0,1062.5
+LinkedIn Ads > Google Search > Organic Search > Google Search > Email Marketing > Email Marketing,6,1,1,100.0,1850.0
+Google Search > LinkedIn Ads > Organic Search,3,1,1,100.0,950.0
+Organic Search > Google Search > Referral & Direct,3,1,1,100.0,807.5
+LinkedIn Ads > Google Search > YouTube Ads > Google Search,4,1,1,100.0,807.5
+Referral & Direct > Google Search > Meta Ads,3,2,1,50.0,950.0
+LinkedIn Ads > Meta Ads > LinkedIn Ads > Organic Search > Google Search > Google Search,6,1,1,100.0,1250.0
+Organic Search > Google Search > YouTube Ads > Organic Search,4,1,1,100.0,807.5
+Google Search > Email Marketing > Meta Ads > LinkedIn Ads > Google Search > Google Search,6,1,1,100.0,950.0
+Meta Ads > Organic Search > Meta Ads > Referral & Direct,4,1,1,100.0,950.0
+YouTube Ads > Meta Ads > LinkedIn Ads > LinkedIn Ads > Meta Ads > Referral & Direct,6,1,1,100.0,1250.0
+LinkedIn Ads > LinkedIn Ads > Meta Ads > Google Search,4,1,1,100.0,1000.0
+LinkedIn Ads > YouTube Ads > Meta Ads > Organic Search,4,1,1,100.0,760.0
+Meta Ads > Google Search > YouTube Ads > Email Marketing,4,1,1,100.0,1250.0
+YouTube Ads > Meta Ads > YouTube Ads > Meta Ads > Email Marketing,5,1,1,100.0,1250.0
+Google Search > Email Marketing > Meta Ads > Email Marketing > Google Search,5,1,1,100.0,1250.0
+Google Search > Google Search > Email Marketing > Email Marketing > Google Search,5,1,1,100.0,1250.0
+Meta Ads > Email Marketing > YouTube Ads > Email Marketing > LinkedIn Ads > Google Search,6,1,1,100.0,1250.0
+LinkedIn Ads > Email Marketing > LinkedIn Ads > Google Search > Email Marketing > Email Marketing,6,1,1,100.0,807.5
+Meta Ads > LinkedIn Ads > Meta Ads > Meta Ads > Google Search,5,1,1,100.0,1062.5
+YouTube Ads > LinkedIn Ads > Email Marketing > Referral & Direct,4,1,1,100.0,807.5
+Meta Ads > Email Marketing > Email Marketing > Google Search > Google Search,5,1,1,100.0,1125.0
+Organic Search > Meta Ads > Email Marketing > Organic Search > Email Marketing,5,1,1,100.0,950.0
+YouTube Ads > Email Marketing > Email Marketing > YouTube Ads > Email Marketing,5,1,1,100.0,1250.0
+Organic Search > Email Marketing > Meta Ads > LinkedIn Ads > Email Marketing > Referral & Direct,6,1,1,100.0,1850.0
+Meta Ads > Google Search > LinkedIn Ads > Google Search,4,1,1,100.0,1000.0
+YouTube Ads > Organic Search > Meta Ads > Google Search > Organic Search,5,1,1,100.0,1665.0
+Meta Ads > LinkedIn Ads > Google Search > Referral & Direct,4,1,1,100.0,950.0
+Meta Ads > Email Marketing > Meta Ads > Meta Ads > Meta Ads > Referral & Direct,6,1,1,100.0,1250.0
+Organic Search > Email Marketing > Organic Search > Meta Ads,4,1,1,100.0,1250.0
+Organic Search > Google Search > Organic Search > Google Search,4,1,1,100.0,855.0
+Referral & Direct > Email Marketing > Meta Ads > Meta Ads,4,1,1,100.0,1250.0
+Organic Search > Google Search > Meta Ads > LinkedIn Ads > Email Marketing > YouTube Ads > Email Marketing,7,1,1,100.0,807.5
+LinkedIn Ads > Email Marketing > Email Marketing > Meta Ads > Email Marketing > Google Search,6,1,1,100.0,1000.0
+Meta Ads > Meta Ads > LinkedIn Ads > Email Marketing > Referral & Direct,5,1,1,100.0,1250.0
+YouTube Ads > LinkedIn Ads > Google Search > Google Search,4,1,1,100.0,855.0
+YouTube Ads > Google Search > YouTube Ads > Email Marketing > Google Search,5,1,1,100.0,1250.0
+Meta Ads > Google Search > YouTube Ads > Meta Ads > Google Search > Email Marketing > Google Search,7,1,1,100.0,1250.0
+LinkedIn Ads > Google Search > Meta Ads > Email Marketing,4,1,1,100.0,1850.0
+Google Search > Google Search > Email Marketing > Email Marketing,4,2,1,50.0,950.0
+Meta Ads > Email Marketing > YouTube Ads > Email Marketing,4,2,1,50.0,1850.0
+Meta Ads > YouTube Ads > YouTube Ads > Meta Ads > Google Search,5,1,1,100.0,1125.0
+Organic Search > YouTube Ads > YouTube Ads > Google Search,4,1,1,100.0,855.0
+Meta Ads > Google Search > Email Marketing > YouTube Ads > YouTube Ads > Meta Ads > Organic Search,7,1,1,100.0,1000.0
+Google Search > Email Marketing > Meta Ads > Meta Ads > Email Marketing > Email Marketing,6,1,1,100.0,1250.0
+YouTube Ads > Meta Ads > Meta Ads > Email Marketing > Email Marketing > Organic Search > Google Search,7,1,1,100.0,1480.0
+Organic Search > Email Marketing > LinkedIn Ads > Email Marketing > Google Search > LinkedIn Ads > Google Search,7,1,1,100.0,807.5
+YouTube Ads > Meta Ads > Email Marketing > Referral & Direct,4,1,1,100.0,950.0
+Meta Ads > Google Search > Google Search > Google Search,4,1,1,100.0,950.0
+YouTube Ads > LinkedIn Ads > Email Marketing > Meta Ads > Google Search,5,1,1,100.0,855.0
+YouTube Ads > Meta Ads > LinkedIn Ads > Email Marketing > Google Search > Email Marketing,6,1,1,100.0,1250.0
+Organic Search > Email Marketing > Email Marketing > Email Marketing > Google Search > Email Marketing > Email Marketing,7,1,1,100.0,950.0
+Meta Ads > Meta Ads > LinkedIn Ads > Email Marketing > Email Marketing,5,1,1,100.0,1000.0
+Google Search > Email Marketing > YouTube Ads > Google Search,4,1,1,100.0,1250.0
+Meta Ads > Email Marketing > YouTube Ads > YouTube Ads > Referral & Direct,5,1,1,100.0,760.0
+Google Search > YouTube Ads > Email Marketing,3,2,1,50.0,1850.0
+Organic Search > Meta Ads > Meta Ads > Meta Ads,4,1,1,100.0,1850.0
+YouTube Ads > Email Marketing > LinkedIn Ads > Organic Search > Meta Ads > Google Search,6,1,1,100.0,950.0
+Organic Search > Google Search > YouTube Ads > Organic Search > Organic Search,5,1,1,100.0,1850.0
+YouTube Ads > Email Marketing > Meta Ads > Email Marketing > Email Marketing,5,1,1,100.0,1850.0
+YouTube Ads > Meta Ads > Google Search > Email Marketing > Google Search,5,1,1,100.0,1572.5
+Organic Search > Email Marketing > Organic Search,3,2,1,50.0,1000.0
+Meta Ads > Email Marketing > Google Search > Organic Search > Email Marketing > Email Marketing > Meta Ads,7,1,1,100.0,950.0
+Meta Ads > Email Marketing > Google Search > Email Marketing,4,2,1,50.0,760.0
+Google Search > Meta Ads > Google Search > Organic Search,4,1,1,100.0,1125.0
+Organic Search > Email Marketing > Google Search > Email Marketing,4,1,1,100.0,1000.0
+Organic Search > Google Search > Email Marketing > Google Search > Meta Ads > Referral & Direct,6,1,1,100.0,1250.0
+LinkedIn Ads > LinkedIn Ads > YouTube Ads > Google Search,4,1,1,100.0,1850.0
+Google Search > LinkedIn Ads > Organic Search > Referral & Direct,4,1,1,100.0,1250.0
+Google Search > Google Search > YouTube Ads > Email Marketing > LinkedIn Ads > Google Search > Organic Search,7,1,1,100.0,950.0
+YouTube Ads > Meta Ads > Google Search > Organic Search > Google Search,5,1,1,100.0,1250.0
+Organic Search > YouTube Ads > Email Marketing > Email Marketing,4,1,1,100.0,1850.0
+Organic Search > Email Marketing > LinkedIn Ads > Meta Ads > LinkedIn Ads > Email Marketing > Email Marketing,7,1,1,100.0,1850.0
+YouTube Ads > LinkedIn Ads > Email Marketing > Meta Ads,4,1,1,100.0,760.0
+Organic Search > Google Search > Google Search > Email Marketing > Referral & Direct,5,1,1,100.0,1850.0
+Organic Search > Email Marketing > Email Marketing > Email Marketing,4,3,1,33.33,760.0
+Meta Ads > LinkedIn Ads > Email Marketing > Email Marketing > LinkedIn Ads > Google Search,6,1,1,100.0,950.0
+Meta Ads > Organic Search > Organic Search > Google Search,4,1,1,100.0,1850.0
+Google Search > Email Marketing > Google Search > Meta Ads > Referral & Direct,5,1,1,100.0,1250.0
+Organic Search > LinkedIn Ads > Meta Ads > Email Marketing,4,1,1,100.0,1250.0
+YouTube Ads > Email Marketing > Email Marketing > Email Marketing > Referral & Direct,5,1,1,100.0,950.0
+Google Search > Email Marketing > Organic Search > Meta Ads > Email Marketing,5,1,1,100.0,950.0
+Referral & Direct > Email Marketing > Google Search > Google Search > Email Marketing,5,1,1,100.0,950.0
+Organic Search > Meta Ads > Email Marketing > YouTube Ads > Organic Search,5,1,1,100.0,1665.0
+Referral & Direct > LinkedIn Ads > Organic Search,3,1,1,100.0,1000.0
+YouTube Ads > Meta Ads > Organic Search > Organic Search,4,1,1,100.0,950.0
+Meta Ads > Email Marketing > LinkedIn Ads > Referral & Direct,4,1,1,100.0,1062.5
+LinkedIn Ads > Google Search > Google Search > YouTube Ads > Referral & Direct,5,1,1,100.0,1250.0
+Meta Ads > Meta Ads > Google Search > Meta Ads > Google Search,5,1,1,100.0,1850.0
+YouTube Ads > Email Marketing > Organic Search > Email Marketing,4,1,1,100.0,1572.5
+Referral & Direct > Meta Ads > Google Search > Meta Ads > YouTube Ads > LinkedIn Ads > Meta Ads,7,1,1,100.0,1480.0
+Google Search > Meta Ads > Email Marketing > Email Marketing,4,2,1,50.0,807.5
+Organic Search > Email Marketing > Google Search > Meta Ads > Google Search,5,1,1,100.0,1250.0
+LinkedIn Ads > Meta Ads > Email Marketing > Email Marketing,4,1,1,100.0,1062.5
+LinkedIn Ads > Organic Search > Organic Search > Email Marketing > Email Marketing > Email Marketing > Google Search,7,1,1,100.0,1480.0
+Meta Ads > Google Search > LinkedIn Ads > Email Marketing,4,1,1,100.0,1850.0
+Organic Search > Organic Search > LinkedIn Ads > Meta Ads,4,2,1,50.0,1000.0
+Meta Ads > Meta Ads > Email Marketing > Meta Ads > Meta Ads,5,1,1,100.0,1250.0
+LinkedIn Ads > Organic Search > Referral & Direct,3,1,1,100.0,950.0
+YouTube Ads > Email Marketing > Meta Ads > Google Search,4,1,1,100.0,1125.0
+Google Search > YouTube Ads > Meta Ads,3,2,1,50.0,807.5
+Google Search > Google Search > Google Search > Email Marketing > Referral & Direct,5,1,1,100.0,855.0
+YouTube Ads > Meta Ads > Organic Search > Email Marketing > LinkedIn Ads > LinkedIn Ads > Google Search,7,1,1,100.0,807.5
+Organic Search > Meta Ads > Google Search > Google Search > Google Search,5,1,1,100.0,1480.0
+YouTube Ads > Meta Ads > Organic Search > Meta Ads,4,2,1,50.0,1125.0
+Google Search > YouTube Ads > Email Marketing > Google Search > Meta Ads,5,1,1,100.0,1250.0
+LinkedIn Ads > Google Search > Email Marketing > Email Marketing > Email Marketing > Organic Search,6,1,1,100.0,1250.0
+YouTube Ads > Organic Search > Meta Ads > Referral & Direct,4,1,1,100.0,1062.5
+Meta Ads > Meta Ads > Meta Ads > LinkedIn Ads > Google Search,5,1,1,100.0,1850.0
+YouTube Ads > Email Marketing > Email Marketing > Email Marketing > Meta Ads,5,1,1,100.0,1250.0
+Referral & Direct > Meta Ads > Google Search > Google Search,4,1,1,100.0,1850.0
+Organic Search > Email Marketing > Email Marketing > Google Search,4,2,1,50.0,950.0
+Organic Search > YouTube Ads > Google Search > Google Search,4,1,1,100.0,1850.0
+Referral & Direct > Organic Search > Email Marketing > Google Search,4,1,1,100.0,1250.0
+Organic Search > Google Search > Email Marketing > Organic Search > Google Search,5,1,1,100.0,1062.5
+Referral & Direct > Google Search > Google Search > Google Search,4,1,1,100.0,950.0
+Meta Ads > Email Marketing > Meta Ads > Email Marketing > Email Marketing > Email Marketing,6,1,1,100.0,950.0
+Google Search > Google Search > Meta Ads > Google Search,4,1,1,100.0,1000.0
+Google Search > Meta Ads > Google Search > Google Search > Google Search,5,1,1,100.0,1480.0
+Meta Ads > Organic Search > Email Marketing > Google Search,4,1,1,100.0,950.0
+Referral & Direct > Email Marketing > Referral & Direct,3,1,1,100.0,1125.0
+Meta Ads > Meta Ads > Organic Search > YouTube Ads > YouTube Ads > Referral & Direct,6,1,1,100.0,807.5
+Google Search > Meta Ads > Google Search > Email Marketing > Email Marketing > Email Marketing > Google Search,7,1,1,100.0,950.0
+LinkedIn Ads > Email Marketing > Google Search > Email Marketing > Google Search > Email Marketing,6,1,1,100.0,1250.0
+Organic Search > Google Search > Google Search > Email Marketing,4,1,1,100.0,855.0
+YouTube Ads > Google Search > LinkedIn Ads > Google Search,4,1,1,100.0,1062.5
+Meta Ads > Email Marketing > Google Search > Meta Ads,4,2,1,50.0,807.5
+Organic Search > Meta Ads > LinkedIn Ads > Google Search,4,1,1,100.0,1062.5
+YouTube Ads > Email Marketing > YouTube Ads > Google Search,4,1,1,100.0,1000.0
+Meta Ads > LinkedIn Ads > LinkedIn Ads > Meta Ads > Meta Ads > Google Search > Email Marketing,7,1,1,100.0,950.0
+Organic Search > Google Search > Email Marketing > Email Marketing > Meta Ads > Email Marketing > Organic Search,7,1,1,100.0,1250.0
+Organic Search > Meta Ads > Email Marketing > Google Search,4,1,1,100.0,1250.0
+Meta Ads > YouTube Ads > Email Marketing > Organic Search > Email Marketing > Email Marketing,6,1,1,100.0,1125.0
+Meta Ads > LinkedIn Ads > LinkedIn Ads > Email Marketing > Organic Search > Email Marketing,6,1,1,100.0,950.0
+Google Search > YouTube Ads > Meta Ads > YouTube Ads > Referral & Direct,5,1,1,100.0,1062.5
+Organic Search > YouTube Ads > Email Marketing > Google Search,4,1,1,100.0,950.0
+Organic Search > Email Marketing > Google Search > Google Search > Referral & Direct,5,1,1,100.0,1250.0
+Google Search > Meta Ads > Email Marketing > Meta Ads,4,1,1,100.0,950.0
+Meta Ads > Email Marketing > Organic Search > LinkedIn Ads > Google Search,5,1,1,100.0,1850.0
+Referral & Direct > Google Search > Referral & Direct,3,1,1,100.0,760.0
+Google Search > Meta Ads > YouTube Ads > Email Marketing > Referral & Direct,5,1,1,100.0,807.5
+Google Search > Meta Ads > Meta Ads > LinkedIn Ads > Meta Ads,5,1,1,100.0,807.5
+Meta Ads > Organic Search > Google Search > Email Marketing > Google Search,5,1,1,100.0,1250.0
+YouTube Ads > Meta Ads > Meta Ads > Organic Search,4,1,1,100.0,1250.0
+Meta Ads > Meta Ads > Meta Ads > Email Marketing > Google Search,5,1,1,100.0,1250.0
+YouTube Ads > Meta Ads > Google Search > Meta Ads,4,1,1,100.0,1572.5
+YouTube Ads > Google Search > Email Marketing > YouTube Ads > Email Marketing,5,1,1,100.0,807.5
+YouTube Ads > YouTube Ads > Meta Ads > Google Search,4,1,1,100.0,950.0
+Meta Ads > Google Search > Google Search > YouTube Ads > Google Search,5,1,1,100.0,1250.0
+Organic Search > Email Marketing > Email Marketing > Referral & Direct,4,1,1,100.0,1125.0
+Google Search > YouTube Ads > Email Marketing > Google Search,4,1,1,100.0,1250.0
+Meta Ads > Meta Ads > Google Search > Email Marketing > Email Marketing > Meta Ads > Organic Search,7,1,1,100.0,1125.0
+YouTube Ads > Google Search > Google Search > Email Marketing,4,1,1,100.0,1062.5
+YouTube Ads > Meta Ads > Email Marketing > LinkedIn Ads > Email Marketing > Google Search > Email Marketing,7,1,1,100.0,1480.0
+LinkedIn Ads > Google Search > Referral & Direct,3,1,1,100.0,1850.0
+Meta Ads > Email Marketing > YouTube Ads > Referral & Direct,4,1,1,100.0,1250.0
+YouTube Ads > Google Search > Email Marketing > Email Marketing,4,1,1,100.0,1572.5
+YouTube Ads > Email Marketing > Email Marketing > Email Marketing > Google Search > Email Marketing > Referral & Direct,7,1,1,100.0,807.5
+Meta Ads > Email Marketing > Meta Ads > Referral & Direct,4,1,1,100.0,1250.0
+LinkedIn Ads > YouTube Ads > Google Search > Email Marketing > Email Marketing > Google Search,6,1,1,100.0,1250.0
+Meta Ads > Email Marketing > Google Search > LinkedIn Ads > Email Marketing > YouTube Ads > Referral & Direct,7,1,1,100.0,1125.0
+LinkedIn Ads > Email Marketing > Organic Search > Organic Search > Email Marketing > Meta Ads > Google Search,7,1,1,100.0,807.5
+Google Search > Meta Ads > Organic Search,3,1,1,100.0,1000.0
+Organic Search > LinkedIn Ads > Meta Ads > Google Search,4,1,1,100.0,807.5
+YouTube Ads > Meta Ads > Meta Ads > Email Marketing,4,1,1,100.0,1000.0
+Meta Ads > Meta Ads > Email Marketing > Organic Search > Meta Ads > Organic Search,6,1,1,100.0,1850.0
+Organic Search > Email Marketing > LinkedIn Ads > Meta Ads > Google Search > Organic Search,6,1,1,100.0,1250.0
+Meta Ads > Email Marketing > Meta Ads > Email Marketing > Google Search > Organic Search,6,1,1,100.0,1250.0
+Google Search > YouTube Ads > Google Search > Email Marketing,4,1,1,100.0,1850.0
+LinkedIn Ads > Google Search > Google Search > Meta Ads,4,1,1,100.0,950.0
+LinkedIn Ads > Meta Ads > YouTube Ads > Email Marketing > Email Marketing,5,1,1,100.0,1250.0
+Meta Ads > Email Marketing > Google Search > Organic Search,4,1,1,100.0,1250.0
+Referral & Direct > Meta Ads > Email Marketing > Meta Ads,4,1,1,100.0,950.0
+LinkedIn Ads > Email Marketing > Email Marketing > Email Marketing > Google Search,5,1,1,100.0,1000.0
+YouTube Ads > Google Search > Google Search > LinkedIn Ads > Google Search,5,1,1,100.0,1250.0
+YouTube Ads > Google Search > LinkedIn Ads > Email Marketing,4,1,1,100.0,1850.0
+Organic Search > YouTube Ads > Email Marketing > Email Marketing > Meta Ads > Organic Search > Referral & Direct,7,1,1,100.0,1850.0
+YouTube Ads > LinkedIn Ads > Google Search > Email Marketing > LinkedIn Ads > Referral & Direct,6,1,1,100.0,1250.0
+Organic Search > Meta Ads > LinkedIn Ads > YouTube Ads > Email Marketing,5,1,1,100.0,950.0
+Organic Search > Email Marketing > Meta Ads > Meta Ads > Google Search,5,1,1,100.0,1250.0
+YouTube Ads > LinkedIn Ads > LinkedIn Ads > Referral & Direct,4,1,1,100.0,1125.0
+Organic Search > Meta Ads > Meta Ads > Meta Ads > Organic Search,5,1,1,100.0,1250.0
+YouTube Ads > LinkedIn Ads > Meta Ads > Email Marketing > Email Marketing > Referral & Direct,6,1,1,100.0,950.0
+Meta Ads > Meta Ads > Email Marketing > Email Marketing > Google Search,5,1,1,100.0,1250.0
+Meta Ads > Email Marketing > Email Marketing > Organic Search,4,1,1,100.0,855.0
+Organic Search > Meta Ads > Meta Ads > Email Marketing > Meta Ads > Meta Ads > Google Search,7,1,1,100.0,760.0
+YouTube Ads > YouTube Ads,2,18,0,0.0,0.0
+Google Search > Organic Search > Email Marketing,3,4,0,0.0,0.0
+YouTube Ads > LinkedIn Ads,2,28,0,0.0,0.0
+Organic Search > Google Search > Organic Search,3,1,0,0.0,0.0
+Google Search > Email Marketing > YouTube Ads,3,4,0,0.0,0.0
+Google Search > Meta Ads > Meta Ads > LinkedIn Ads,4,1,0,0.0,0.0
+LinkedIn Ads > Organic Search > YouTube Ads,3,1,0,0.0,0.0
+LinkedIn Ads > YouTube Ads,2,8,0,0.0,0.0
+Meta Ads > Organic Search > Google Search > Email Marketing,4,1,0,0.0,0.0
+Organic Search > YouTube Ads,2,14,0,0.0,0.0
+LinkedIn Ads > LinkedIn Ads,2,16,0,0.0,0.0
+YouTube Ads > LinkedIn Ads > YouTube Ads > YouTube Ads,4,2,0,0.0,0.0
+Organic Search > Google Search > Email Marketing > Meta Ads,4,1,0,0.0,0.0
+Meta Ads > LinkedIn Ads,2,25,0,0.0,0.0
+Meta Ads > Meta Ads > LinkedIn Ads,3,6,0,0.0,0.0
+Meta Ads > YouTube Ads,2,24,0,0.0,0.0
+Organic Search > LinkedIn Ads,2,16,0,0.0,0.0
+Meta Ads > Google Search > LinkedIn Ads,3,6,0,0.0,0.0
+Meta Ads > Google Search > Email Marketing > Meta Ads,4,1,0,0.0,0.0
+Meta Ads > YouTube Ads > Email Marketing > Organic Search,4,1,0,0.0,0.0
+Meta Ads > Google Search > YouTube Ads,3,2,0,0.0,0.0
+Google Search > YouTube Ads,2,19,0,0.0,0.0
+YouTube Ads > Email Marketing > Email Marketing > LinkedIn Ads,4,1,0,0.0,0.0
+Meta Ads > Email Marketing > Organic Search > Meta Ads,4,1,0,0.0,0.0
+Referral & Direct > Meta Ads > LinkedIn Ads,3,2,0,0.0,0.0
+Organic Search > Meta Ads > Organic Search > Email Marketing,4,1,0,0.0,0.0
+Meta Ads > Email Marketing > Email Marketing > LinkedIn Ads,4,2,0,0.0,0.0
+Meta Ads > YouTube Ads > YouTube Ads,3,1,0,0.0,0.0
+Organic Search > Meta Ads > Google Search > Meta Ads,4,1,0,0.0,0.0
+Meta Ads > Organic Search > Meta Ads > Email Marketing,4,1,0,0.0,0.0
+LinkedIn Ads > Email Marketing > YouTube Ads,3,1,0,0.0,0.0
+Meta Ads > Email Marketing > LinkedIn Ads,3,3,0,0.0,0.0
+Organic Search > Email Marketing > YouTube Ads,3,2,0,0.0,0.0
+Referral & Direct > LinkedIn Ads,2,3,0,0.0,0.0
+Meta Ads > LinkedIn Ads > YouTube Ads > Meta Ads,4,1,0,0.0,0.0
+Meta Ads > YouTube Ads > Email Marketing > Email Marketing,4,2,0,0.0,0.0
+Google Search > Meta Ads > Email Marketing,3,7,0,0.0,0.0
+Meta Ads > LinkedIn Ads > YouTube Ads,3,3,0,0.0,0.0
+Organic Search > Email Marketing > YouTube Ads > YouTube Ads,4,1,0,0.0,0.0
+Organic Search > Google Search > Email Marketing > Email Marketing,4,2,0,0.0,0.0
+Meta Ads > Email Marketing > Google Search > LinkedIn Ads,4,1,0,0.0,0.0
+Google Search > LinkedIn Ads,2,10,0,0.0,0.0
+Meta Ads > Google Search > Organic Search > Google Search,4,1,0,0.0,0.0
+LinkedIn Ads > Email Marketing > LinkedIn Ads,3,2,0,0.0,0.0
+Meta Ads > Meta Ads > Google Search > LinkedIn Ads,4,1,0,0.0,0.0
+Google Search > Google Search > LinkedIn Ads > Meta Ads,4,1,0,0.0,0.0
+Google Search > YouTube Ads > Google Search > Organic Search,4,1,0,0.0,0.0
+YouTube Ads > Email Marketing > Email Marketing > Organic Search,4,1,0,0.0,0.0
+LinkedIn Ads > Meta Ads > Google Search > LinkedIn Ads,4,1,0,0.0,0.0
+LinkedIn Ads > Email Marketing > Meta Ads > Google Search,4,1,0,0.0,0.0
+Referral & Direct > Email Marketing > Google Search > Meta Ads,4,1,0,0.0,0.0
+YouTube Ads > Meta Ads > Organic Search,3,2,0,0.0,0.0
+YouTube Ads > LinkedIn Ads > LinkedIn Ads,3,3,0,0.0,0.0
+Google Search > Google Search > Google Search > Email Marketing,4,1,0,0.0,0.0
+Organic Search > Meta Ads > LinkedIn Ads,3,2,0,0.0,0.0
+Organic Search > LinkedIn Ads > Email Marketing > Email Marketing,4,1,0,0.0,0.0
+YouTube Ads > Email Marketing > Email Marketing > Meta Ads,4,3,0,0.0,0.0
+LinkedIn Ads > Google Search > Email Marketing > Meta Ads,4,1,0,0.0,0.0
+Google Search > LinkedIn Ads > LinkedIn Ads > Google Search,4,1,0,0.0,0.0
+Meta Ads > LinkedIn Ads > Meta Ads > Meta Ads,4,1,0,0.0,0.0
+YouTube Ads > Meta Ads > LinkedIn Ads > Meta Ads,4,1,0,0.0,0.0
+LinkedIn Ads > Email Marketing > Email Marketing > Google Search,4,1,0,0.0,0.0
+LinkedIn Ads > LinkedIn Ads > LinkedIn Ads,3,2,0,0.0,0.0
+LinkedIn Ads > Meta Ads > Email Marketing > Meta Ads,4,1,0,0.0,0.0
+Meta Ads > Meta Ads > Google Search > Meta Ads,4,1,0,0.0,0.0
+YouTube Ads > Email Marketing > Meta Ads > YouTube Ads,4,1,0,0.0,0.0
+Google Search > Google Search > Email Marketing,3,3,0,0.0,0.0
+YouTube Ads > Google Search > LinkedIn Ads,3,2,0,0.0,0.0
+Google Search > Google Search > YouTube Ads,3,1,0,0.0,0.0
+Google Search > Google Search > Email Marketing > Meta Ads,4,1,0,0.0,0.0
+Meta Ads > Organic Search > LinkedIn Ads,3,2,0,0.0,0.0
+LinkedIn Ads > LinkedIn Ads > LinkedIn Ads > Email Marketing,4,1,0,0.0,0.0
+YouTube Ads > Meta Ads > YouTube Ads > Email Marketing,4,1,0,0.0,0.0
+Organic Search > Email Marketing > Meta Ads > Organic Search,4,1,0,0.0,0.0
+YouTube Ads > Meta Ads > Email Marketing > Meta Ads,4,1,0,0.0,0.0
+Organic Search > Google Search > Organic Search > Email Marketing,4,1,0,0.0,0.0
+YouTube Ads > Meta Ads > YouTube Ads,3,1,0,0.0,0.0
+Meta Ads > LinkedIn Ads > Email Marketing > Email Marketing,4,2,0,0.0,0.0
+YouTube Ads > LinkedIn Ads > Email Marketing > Email Marketing,4,4,0,0.0,0.0
+YouTube Ads > Google Search > YouTube Ads > LinkedIn Ads,4,1,0,0.0,0.0
+Referral & Direct > YouTube Ads,2,2,0,0.0,0.0
+Meta Ads > Meta Ads > Email Marketing > Meta Ads,4,2,0,0.0,0.0
+Referral & Direct > Meta Ads > Meta Ads,3,3,0,0.0,0.0
+Meta Ads > Email Marketing > Meta Ads > LinkedIn Ads,4,2,0,0.0,0.0
+Google Search > Meta Ads > Email Marketing > Organic Search,4,1,0,0.0,0.0
+Meta Ads > YouTube Ads > Organic Search > Meta Ads,4,1,0,0.0,0.0
+Google Search > LinkedIn Ads > LinkedIn Ads,3,1,0,0.0,0.0
+LinkedIn Ads > YouTube Ads > Email Marketing,3,1,0,0.0,0.0
+YouTube Ads > Email Marketing > Google Search > Organic Search,4,1,0,0.0,0.0
+YouTube Ads > Google Search > YouTube Ads > Meta Ads,4,1,0,0.0,0.0
+Meta Ads > Google Search > Email Marketing > Organic Search,4,2,0,0.0,0.0
+Organic Search > Meta Ads > YouTube Ads,3,1,0,0.0,0.0
+YouTube Ads > YouTube Ads > Email Marketing > Meta Ads,4,2,0,0.0,0.0
+Meta Ads > Meta Ads > Email Marketing > YouTube Ads,4,1,0,0.0,0.0
+LinkedIn Ads > Organic Search > Email Marketing > Google Search,4,1,0,0.0,0.0
+Meta Ads > YouTube Ads > Meta Ads > Email Marketing,4,1,0,0.0,0.0
+Google Search > Email Marketing > Email Marketing > YouTube Ads,4,1,0,0.0,0.0
+YouTube Ads > Meta Ads > Email Marketing > YouTube Ads,4,1,0,0.0,0.0
+Google Search > Organic Search > Meta Ads > LinkedIn Ads,4,1,0,0.0,0.0
+Meta Ads > Google Search > Google Search > Meta Ads,4,1,0,0.0,0.0
+Google Search > Meta Ads > LinkedIn Ads,3,3,0,0.0,0.0
+Google Search > Organic Search > YouTube Ads > YouTube Ads,4,1,0,0.0,0.0
+Organic Search > Email Marketing > Email Marketing > Organic Search,4,1,0,0.0,0.0
+YouTube Ads > LinkedIn Ads > LinkedIn Ads > LinkedIn Ads,4,1,0,0.0,0.0
+LinkedIn Ads > Google Search > LinkedIn Ads > Google Search,4,1,0,0.0,0.0
+Google Search > Email Marketing > Meta Ads > Google Search,4,1,0,0.0,0.0
+YouTube Ads > Meta Ads > LinkedIn Ads,3,2,0,0.0,0.0
+Meta Ads > Organic Search > Organic Search,3,1,0,0.0,0.0
+Meta Ads > Email Marketing > LinkedIn Ads > Email Marketing,4,1,0,0.0,0.0
+Meta Ads > Email Marketing > Meta Ads > Organic Search,4,1,0,0.0,0.0
+Meta Ads > LinkedIn Ads > Email Marketing > Organic Search,4,2,0,0.0,0.0
+Meta Ads > Meta Ads > LinkedIn Ads > Email Marketing,4,1,0,0.0,0.0
+Referral & Direct > Email Marketing > Meta Ads,3,1,0,0.0,0.0
+Organic Search > Google Search > Google Search > YouTube Ads,4,1,0,0.0,0.0
+YouTube Ads > Organic Search > Meta Ads > Email Marketing,4,1,0,0.0,0.0
+LinkedIn Ads > Meta Ads > Google Search > Meta Ads,4,2,0,0.0,0.0
+Referral & Direct > LinkedIn Ads > LinkedIn Ads,3,1,0,0.0,0.0
+Organic Search > Organic Search > Meta Ads,3,2,0,0.0,0.0
+Referral & Direct > Organic Search,2,3,0,0.0,0.0
+LinkedIn Ads > Organic Search > Email Marketing > Email Marketing,4,1,0,0.0,0.0
+YouTube Ads > Organic Search > YouTube Ads > Google Search,4,1,0,0.0,0.0
+Google Search > Email Marketing > Email Marketing > Meta Ads,4,1,0,0.0,0.0
+YouTube Ads > Meta Ads > LinkedIn Ads > Google Search,4,1,0,0.0,0.0
+Google Search > Email Marketing > LinkedIn Ads,3,1,0,0.0,0.0
+YouTube Ads > LinkedIn Ads > Email Marketing > LinkedIn Ads,4,1,0,0.0,0.0
+LinkedIn Ads > Google Search > Email Marketing > Email Marketing,4,1,0,0.0,0.0
+Referral & Direct > Meta Ads > Meta Ads > Google Search,4,1,0,0.0,0.0
+Google Search > Google Search > LinkedIn Ads,3,1,0,0.0,0.0
+Google Search > Meta Ads > Google Search > Email Marketing,4,1,0,0.0,0.0
+Organic Search > Email Marketing > LinkedIn Ads > Email Marketing,4,1,0,0.0,0.0
+Google Search > YouTube Ads > LinkedIn Ads > Email Marketing,4,1,0,0.0,0.0
+YouTube Ads > YouTube Ads > YouTube Ads > Meta Ads,4,1,0,0.0,0.0
+Organic Search > LinkedIn Ads > Organic Search > Email Marketing,4,1,0,0.0,0.0
+YouTube Ads > Email Marketing > Meta Ads > Meta Ads,4,1,0,0.0,0.0
+Meta Ads > Email Marketing > YouTube Ads,3,1,0,0.0,0.0
+LinkedIn Ads > LinkedIn Ads > Meta Ads,3,1,0,0.0,0.0
+Google Search > Email Marketing > Meta Ads > LinkedIn Ads,4,1,0,0.0,0.0
+LinkedIn Ads > Email Marketing > YouTube Ads > Email Marketing,4,1,0,0.0,0.0
+Organic Search > YouTube Ads > YouTube Ads,3,1,0,0.0,0.0
+YouTube Ads > YouTube Ads > LinkedIn Ads,3,1,0,0.0,0.0
+LinkedIn Ads > YouTube Ads > LinkedIn Ads > Google Search,4,1,0,0.0,0.0
+LinkedIn Ads > Google Search > Organic Search > Meta Ads,4,1,0,0.0,0.0
+Organic Search > Email Marketing > YouTube Ads > Meta Ads,4,1,0,0.0,0.0
+Meta Ads > Meta Ads > Meta Ads > Email Marketing,4,1,0,0.0,0.0
+Meta Ads > LinkedIn Ads > LinkedIn Ads,3,1,0,0.0,0.0
+Organic Search > Organic Search > Meta Ads > Email Marketing,4,1,0,0.0,0.0
+Meta Ads > Google Search > LinkedIn Ads > Organic Search,4,1,0,0.0,0.0
+LinkedIn Ads > Meta Ads > LinkedIn Ads,3,2,0,0.0,0.0
+YouTube Ads > YouTube Ads > Organic Search,3,1,0,0.0,0.0
+Google Search > Google Search > Email Marketing > YouTube Ads,4,1,0,0.0,0.0
+Referral & Direct > Google Search > Google Search > Email Marketing,4,1,0,0.0,0.0
+Meta Ads > LinkedIn Ads > YouTube Ads > LinkedIn Ads,4,1,0,0.0,0.0
+Meta Ads > Google Search > Email Marketing > Email Marketing,4,1,0,0.0,0.0
+YouTube Ads > YouTube Ads > Email Marketing > LinkedIn Ads,4,1,0,0.0,0.0
+Meta Ads > Meta Ads > YouTube Ads > Google Search,4,1,0,0.0,0.0
+Google Search > YouTube Ads > Meta Ads > YouTube Ads,4,1,0,0.0,0.0
+YouTube Ads > LinkedIn Ads > YouTube Ads,3,1,0,0.0,0.0
+LinkedIn Ads > LinkedIn Ads > Meta Ads > Email Marketing,4,1,0,0.0,0.0
+Google Search > Organic Search > LinkedIn Ads,3,1,0,0.0,0.0
+Meta Ads > Organic Search > Google Search > Meta Ads,4,1,0,0.0,0.0
+Google Search > Email Marketing > LinkedIn Ads > Meta Ads,4,1,0,0.0,0.0
+YouTube Ads > Organic Search > LinkedIn Ads,3,1,0,0.0,0.0
+LinkedIn Ads > Email Marketing > Google Search > Meta Ads,4,1,0,0.0,0.0
+YouTube Ads > Organic Search > YouTube Ads > Email Marketing,4,1,0,0.0,0.0
+YouTube Ads > Email Marketing > YouTube Ads,3,1,0,0.0,0.0
+YouTube Ads > Google Search > YouTube Ads,3,1,0,0.0,0.0
